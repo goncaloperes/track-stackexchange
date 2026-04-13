@@ -180,123 +180,123 @@
 | 176 | 1 |  | [ImportError when importing metric from sklearn](https://stackoverflow.com/a/71212089) | `python`, `scikit-learn` | 2022-02-21 |
 | 177 | 1 |  | [How to redirect Homepage to another page when user login](https://stackoverflow.com/a/71284314) | `php`, `wordpress`, `authentication`, `http-redirect` | 2022-02-27 |
 | 178 | 1 |  | [Print values of an array between two concenctric circles](https://stackoverflow.com/a/71293775) | `python`, `python-3.x`, `numpy` | 2022-02-28 |
-| 179 | 1 |  | [How to Ignore errors in Dataframe to_sql method](https://stackoverflow.com/a/72028992) | `python`, `python-3.x`, `pandas`, `dataframe`, `pandas-to-sql` | 2022-04-27 |
-| 180 | 1 | ✓ | [pandas dataframe groupby get count by multi column condition](https://stackoverflow.com/a/72039918) | `python`, `pandas`, `dataframe` | 2022-04-28 |
-| 181 | 1 |  | [How to save c++ code file using visual code?](https://stackoverflow.com/a/72044161) | `c++`, `visual-studio-code` | 2022-04-28 |
-| 182 | 1 |  | [How to calculate bed mates and length of time spent together](https://stackoverflow.com/a/72057087) | `python`, `pandas` | 2022-04-29 |
-| 183 | 1 | ✓ | [i need to return a value from a dataframe cell as a variable not a series](https://stackoverflow.com/a/72076528) | `pandas`, `dataframe`, `python-3.8`, `pandas-loc` | 2022-05-01 |
-| 184 | 1 |  | [Django - upload a file to the cloud (Azure blob storage) with progress bar](https://stackoverflow.com/a/72792165) | `python`, `django`, `ajax`, `azure`, `progress-bar` | 2022-06-28 |
-| 185 | 1 |  | [jira and git linking up](https://stackoverflow.com/a/72876089) | `git`, `jira` | 2022-07-05 |
-| 186 | 1 |  | [Extract max distance for IDs that visited multiple (lat,lon)](https://stackoverflow.com/a/72949526) | `python`, `pandas`, `geolocation`, `distance`, `geopandas` | 2022-07-12 |
-| 187 | 1 |  | [Django ORM query optimisation with multiple joins](https://stackoverflow.com/a/73378242) | `python`, `django`, `django-models`, `django-orm` | 2022-08-16 |
-| 188 | 1 |  | [Convert live Django project to REST API project](https://stackoverflow.com/a/73407677) | `python`, `django`, `django-rest-framework`, `django-forms` | 2022-08-18 |
-| 189 | 1 | ✓ | [Django DeleteView success_url to previous/different page](https://stackoverflow.com/a/73408375) | `python`, `django`, `django-views`, `django-urls` | 2022-08-18 |
-| 190 | 1 |  | [is it possible to have google-auth within django template?](https://stackoverflow.com/a/73417690) | `django`, `authentication`, `django-templates`, `django-authentication`, `django-allauth` | 2022-08-19 |
-| 191 | 1 |  | [Django folder structure for created file, static? media? or another one?](https://stackoverflow.com/a/73426328) | `python`, `django` | 2022-08-20 |
-| 192 | 1 | ✓ | [How do I assign groups to python-pandas data based on integer column?](https://stackoverflow.com/a/73529835) | `python`, `pandas` | 2022-08-29 |
-| 193 | 1 |  | [How do you perform conditional operations on different elements in a Pandas DataFrame?](https://stackoverflow.com/a/73553408) | `python`, `pandas`, `dataframe` | 2022-08-31 |
-| 194 | 1 |  | [Object ownership validation in Django UpdateView](https://stackoverflow.com/a/73559199) | `django`, `django-views`, `django-class-based-views` | 2022-08-31 |
-| 195 | 1 |  | [How to test user ownership of object using Django decorators](https://stackoverflow.com/a/73559225) | `python`, `django`, `django-models`, `django-views`, `django-class-based-views` | 2022-08-31 |
-| 196 | 1 |  | [I can't make migrate back, after I deleted them in Django?](https://stackoverflow.com/a/73560188) | `python`, `django`, `django-migrations` | 2022-08-31 |
-| 197 | 1 |  | [connection refused django gunicorn nginx](https://stackoverflow.com/a/73582750) | `django`, `ubuntu`, `nginx`, `gunicorn` | 2022-09-02 |
-| 198 | 1 | ✓ | [Creating Subfolders on bases of Image Name and Complexity in CSV Python](https://stackoverflow.com/a/73607566) | `python`, `pandas`, `image`, `directory`, `label` | 2022-09-05 |
-| 199 | 1 |  | [How to save credit card information and use it for future purchases with Django and Stripe?](https://stackoverflow.com/a/73614292) | `python`, `django`, `stripe-payments` | 2022-09-05 |
-| 200 | 1 |  | [how to use image as option in django model form](https://stackoverflow.com/a/73621768) | `python`, `django`, `django-models`, `django-views`, `django-forms` | 2022-09-06 |
-| 201 | 1 | ✓ | [Specify Factory db column names with FactoryBoy in a Django Test?](https://stackoverflow.com/a/73624508) | `python`, `django`, `pytest`, `pytest-django`, `factory-boy` | 2022-09-06 |
-| 202 | 1 | ✓ | [Django architecture for different clients/technologies using same models](https://stackoverflow.com/a/73626930) | `python`, `django`, `architecture`, `multiple-databases` | 2022-09-06 |
-| 203 | 1 |  | [Django/MySQl how to fix Database returned an invalid datetime value. Are time zone definitions for your database installed?](https://stackoverflow.com/a/73636129) | `python`, `mysql`, `django`, `phpmyadmin`, `cpanel` | 2022-09-07 |
-| 204 | 1 | ✓ | [How to exclude certain system checks from running on `manage.py migrate`?](https://stackoverflow.com/a/73672906) | `python`, `django`, `django-migrations`, `django-manage.py` | 2022-09-10 |
-| 205 | 1 | ✓ | [If the username or password is invalid when logging in, how can appear an error on page without refreshing itself, Django](https://stackoverflow.com/a/73694017) | `javascript`, `python`, `django` | 2022-09-12 |
-| 206 | 1 |  | [Pandas groupby and transform based on multiple columns](https://stackoverflow.com/a/73708312) | `python`, `pandas`, `dataframe`, `group-by`, `transform` | 2022-09-13 |
-| 207 | 1 |  | [How to get values from list of nested dictionaries?](https://stackoverflow.com/a/73709018) | `python`, `pandas`, `list`, `dataframe`, `dictionary` | 2022-09-13 |
-| 208 | 1 | ✓ | [How to filter a column with list of elements in Python dataframe](https://stackoverflow.com/a/73709864) | `python`, `python-3.x`, `pandas`, `string`, `dataframe` | 2022-09-13 |
-| 209 | 1 |  | [Pandas map, check if any values in a list is inside another](https://stackoverflow.com/a/73718345) | `python`, `pandas`, `list`, `dataframe`, `series` | 2022-09-14 |
-| 210 | 1 | ✓ | [Remove substring from string if substring in list in data frame column](https://stackoverflow.com/a/73719025) | `python`, `python-3.x`, `pandas`, `string`, `dataframe` | 2022-09-14 |
-| 211 | 1 |  | [Pandas long to wide with a twist](https://stackoverflow.com/a/73778836) | `python`, `pandas`, `dataframe`, `parsing` | 2022-09-19 |
-| 212 | 1 | ✓ | [Faster way to find all columns are with no missing values?](https://stackoverflow.com/a/73779175) | `python`, `pandas`, `dataframe`, `numpy`, `missing-data` | 2022-09-19 |
-| 213 | 1 | ✓ | [Does a flexible group by function exist?](https://stackoverflow.com/a/73783359) | `python`, `pandas`, `dataframe`, `group-by`, `merge` | 2022-09-20 |
-| 214 | 1 |  | [nan values when creating a pd.Series through a function](https://stackoverflow.com/a/73784835) | `python`, `pandas`, `dataframe`, `nan`, `series` | 2022-09-20 |
-| 215 | 1 |  | [Django - developing an app using a modular architecture](https://stackoverflow.com/a/73786858) | `python`, `django`, `plugins` | 2022-09-20 |
-| 216 | 1 | ✓ | [How to drop rows that do not meet multiple conditions python](https://stackoverflow.com/a/73811014) | `pandas`, `filter` | 2022-09-22 |
-| 217 | 1 |  | [Extracting keys from dataframe of json](https://stackoverflow.com/a/73836095) | `python`, `json`, `pandas`, `key`, `extract` | 2022-09-24 |
-| 218 | 1 |  | [Count number of occurrences of text over row python pandas](https://stackoverflow.com/a/73839332) | `python`, `pandas` | 2022-09-24 |
-| 219 | 1 | ✓ | [Cast the two first words of a column to another column in the same dataframe](https://stackoverflow.com/a/73900121) | `python`, `python-3.x`, `pandas`, `dataframe` | 2022-09-29 |
-| 220 | 1 |  | [Error in installing Symfony4](https://stackoverflow.com/a/73933626) | `php`, `symfony`, `installation`, `frameworks` | 2022-10-03 |
-| 221 | 1 | ✓ | [Iterating through dataframe and doing calculations - stuck](https://stackoverflow.com/a/73940519) | `python`, `pandas` | 2022-10-03 |
-| 222 | 1 |  | [how to create a multilabel dataset from 3 dataframes](https://stackoverflow.com/a/73957453) | `python`, `python-3.x`, `pandas`, `dataframe`, `jupyter-notebook` | 2022-10-05 |
-| 223 | 1 | ✓ | [Fill in empty space by merging columns using Pandas Python](https://stackoverflow.com/a/73959416) | `python`, `pandas`, `dataframe`, `jupyter-notebook`, `txt` | 2022-10-05 |
-| 224 | 1 | ✓ | [How to return next day with str condition in Pandas?](https://stackoverflow.com/a/73960083) | `python`, `python-3.x`, `pandas`, `dataframe`, `conditional-statements` | 2022-10-05 |
-| 225 | 1 | ✓ | [How to create a pandas dataframe from a nested json file?](https://stackoverflow.com/a/73975331) | `python`, `pandas`, `dataframe` | 2022-10-06 |
-| 226 | 1 | ✓ | [I am trying to create a new column in python dataframe using apply, lambda and if elif else functions. I am getting the error of invalid syntex](https://stackoverflow.com/a/73976202) | `python`, `pandas`, `lambda` | 2022-10-06 |
-| 227 | 1 | ✓ | [How pull closest maturity date in relation to each as of date in python using groupby](https://stackoverflow.com/a/73978609) | `python`, `pandas`, `dataframe`, `date`, `datetime` | 2022-10-06 |
-| 228 | 1 |  | [Python: Fill dataframe column depending on other column](https://stackoverflow.com/a/73984991) | `python`, `pandas`, `string`, `dataframe`, `numpy` | 2022-10-07 |
-| 229 | 1 | ✓ | [How do I CONCAT data from a dataframe to another dataframe?](https://stackoverflow.com/a/74015321) | `python`, `pandas`, `dataframe`, `merge`, `concatenation` | 2022-10-10 |
-| 230 | 1 | ✓ | [Iterating over row and editing strings in Pandas](https://stackoverflow.com/a/74030711) | `python`, `pandas`, `string` | 2022-10-11 |
-| 231 | 1 | ✓ | [Pandas series to list of dictionaries with specific structure](https://stackoverflow.com/a/74031079) | `python`, `pandas`, `dictionary`, `data-structures` | 2022-10-11 |
-| 232 | 1 |  | [Convert nested dictionary to pandas dataframe in python](https://stackoverflow.com/a/74032455) | `python`, `pandas`, `dataframe`, `dictionary` | 2022-10-11 |
-| 233 | 1 |  | [Row-wise count in pandas?](https://stackoverflow.com/a/74044456) | `python`, `pandas`, `dataframe`, `apply` | 2022-10-12 |
-| 234 | 1 |  | [Counting number of zeros per row by Pandas DataFrame?](https://stackoverflow.com/a/74044811) | `python`, `pandas` | 2022-10-12 |
-| 235 | 1 | ✓ | [How to obtain unique dates as a list from DataFrame with Datetime index](https://stackoverflow.com/a/74045408) | `python`, `pandas`, `dataframe` | 2022-10-12 |
-| 236 | 1 | ✓ | [Emulating xlookup with Pandas or Numpy Python](https://stackoverflow.com/a/74053852) | `python`, `pandas`, `dataframe`, `numpy` | 2022-10-13 |
-| 237 | 1 |  | [Scania’s Air Pressure System's Failures](https://stackoverflow.com/a/74095476) | `python`, `pandas`, `dataframe`, `missing-data`, `eda` | 2022-10-17 |
-| 238 | 1 |  | [Search column of lists](https://stackoverflow.com/a/74106837) | `python`, `pandas`, `list` | 2022-10-18 |
-| 239 | 1 |  | [Python: ImportError: lxml not found, please install it](https://stackoverflow.com/a/74107396) | `python`, `macos` | 2022-10-18 |
-| 240 | 1 | ✓ | [Convert to DataFrame?](https://stackoverflow.com/a/74107921) | `pandas`, `numpy` | 2022-10-18 |
-| 241 | 1 | ✓ | [Pandas - Apply a function on a comma-separated column of feature names and store the weights in separate corresponding columns](https://stackoverflow.com/a/74108674) | `python`, `pandas` | 2022-10-18 |
-| 242 | 1 | ✓ | [Dataframe does not have separated columns for every data after reading CSV file](https://stackoverflow.com/a/74110584) | `python`, `python-3.x`, `pandas`, `dataframe`, `csv` | 2022-10-18 |
-| 243 | 1 | ✓ | [Python pandas how to update a column with value 1 if another column contains a certain word](https://stackoverflow.com/a/74122045) | `python`, `pandas`, `replace`, `contains` | 2022-10-19 |
-| 244 | 1 |  | [Removing None values from DataFrame in Python](https://stackoverflow.com/a/74192784) | `python`, `pandas`, `dataframe`, `filter` | 2022-10-25 |
-| 245 | 1 | ✓ | [pandas overlay on top of a plot](https://stackoverflow.com/a/74193890) | `python`, `pandas`, `dataframe`, `date`, `matplotlib` | 2022-10-25 |
-| 246 | 1 | ✓ | [Convert the string into a float value](https://stackoverflow.com/a/74206110) | `python`, `pandas`, `dataframe`, `numpy` | 2022-10-26 |
-| 247 | 1 |  | [operation between columns according to the value it contains](https://stackoverflow.com/a/74223108) | `python`, `pandas` | 2022-10-27 |
-| 248 | 1 |  | [What's the most efficient way to convert a string like "3:00pm" to a Python datetime object?](https://stackoverflow.com/a/74223648) | `python`, `pandas`, `datetime`, `datetime-format` | 2022-10-27 |
-| 249 | 1 | ✓ | [JSON edit in Python](https://stackoverflow.com/a/74233600) | `python`, `python-3.x`, `pandas`, `dataframe` | 2022-10-28 |
-| 250 | 1 | ✓ | [How to find the optimal bin width which will include most datapoints in Python](https://stackoverflow.com/a/74234373) | `python`, `pandas`, `grouping`, `binning`, `data-preprocessing` | 2022-10-28 |
-| 251 | 1 |  | [How to calculate the avearge of every 4 elements in numpy array](https://stackoverflow.com/a/74262249) | `python`, `numpy` | 2022-10-31 |
-| 252 | 1 |  | [Python Regex - Summing the total of times strings from a list appear in a separate string](https://stackoverflow.com/a/74263604) | `python`, `regex`, `text`, `count`, `python-re` | 2022-10-31 |
-| 253 | 1 |  | [How to return the max value from another dataframe](https://stackoverflow.com/a/74266937) | `python`, `pandas`, `dataframe` | 2022-10-31 |
-| 254 | 1 |  | [Python / Pandas Join records when they match in at least one column](https://stackoverflow.com/a/74269731) | `python`, `pandas`, `numpy` | 2022-10-31 |
-| 255 | 1 |  | [Show how much there is of a certain value in each column in pandas](https://stackoverflow.com/a/74288469) | `python`, `pandas` | 2022-11-02 |
-| 256 | 1 |  | [How to generate a list from a pandas dataframe with column name and values as nested list](https://stackoverflow.com/a/74319774) | `python`, `pandas`, `list`, `dataframe` | 2022-11-04 |
-| 257 | 1 | ✓ | [Dropping rows by index that doesn't exist in other dataframe](https://stackoverflow.com/a/74320160) | `python`, `pandas`, `dataframe` | 2022-11-04 |
-| 258 | 1 |  | [Remove special character (?, ()) from value in dataframe](https://stackoverflow.com/a/74374453) | `python`, `pandas`, `dataframe`, `replace`, `special-characters` | 2022-11-09 |
-| 259 | 1 |  | [using pandas make a string column into multiple columns with True/False](https://stackoverflow.com/a/74375217) | `python`, `pandas` | 2022-11-09 |
-| 260 | 1 |  | [Using regex in python to delete (or replace) parentheses and items inside them](https://stackoverflow.com/a/74434016) | `python`, `pandas`, `string`, `replace` | 2022-11-14 |
-| 261 | 1 |  | [How to convert time format in pandas](https://stackoverflow.com/a/74434628) | `python`, `pandas` | 2022-11-14 |
-| 262 | 1 | ✓ | [Django Template – Mark only certain HTML tags as safe](https://stackoverflow.com/a/74715131) | `html`, `django` | 2022-12-07 |
-| 263 | 1 |  | [Dataframe concatenation with same indexes and different column sizes](https://stackoverflow.com/a/74774385) | `python`, `pandas`, `dataframe`, `concatenation` | 2022-12-12 |
-| 264 | 1 |  | [Boolean for unique value in a column](https://stackoverflow.com/a/74783779) | `python`, `pandas`, `dataframe`, `unique` | 2022-12-13 |
-| 265 | 1 |  | [Linkedin share link image not showing](https://stackoverflow.com/a/75498797) | `linkedin-api`, `eleventy` | 2023-02-19 |
-| 266 | 1 |  | [In Pandas, how to retrieve the rows which created each group, after aggregation and filtering?](https://stackoverflow.com/a/75854858) | `python`, `pandas`, `aggregate` | 2023-03-27 |
-| 267 | 1 | ✓ | [Seaborn: cumulative sum and hue](https://stackoverflow.com/a/75855423) | `python`, `python-3.x`, `pandas`, `seaborn`, `visualization` | 2023-03-27 |
-| 268 | 1 |  | [Python Package not Found when Trying to Install on Anaconda Powershell](https://stackoverflow.com/a/76149038) | `python`, `python-3.x`, `anaconda`, `jupyter-lab`, `python-install` | 2023-05-01 |
-| 269 | 0 |  | [Why does my Spark only use two computers in the cluster?](https://stackoverflow.com/a/59193280) | `apache-spark`, `cluster-computing` | 2019-12-05 |
-| 270 | 0 |  | [Twitter API - Reasons for "invalid or expired token"](https://stackoverflow.com/a/60459354) | `twitter`, `token`, `twitter-oauth` | 2020-02-28 |
-| 271 | 0 |  | [xlrd reading xls XLRDError: Unsupported format, or corrupt file: Expected BOF record; found '\r\n<html>'](https://stackoverflow.com/a/62974071) | `python`, `excel`, `dataframe`, `xls`, `xlrd` | 2020-07-18 |
-| 272 | 0 |  | [How to merge multiple csv files into a single csv files](https://stackoverflow.com/a/62974261) | `java`, `csv`, `join`, `merge` | 2020-07-18 |
-| 273 | 0 |  | [Pandas: print column name with missing values](https://stackoverflow.com/a/63042204) | `python`, `pandas`, `dataframe`, `nan`, `missing-data` | 2020-07-22 |
-| 274 | 0 |  | [None freq not allowing seasonal_decompose](https://stackoverflow.com/a/63130286) | `python`, `dataframe`, `time`, `time-series`, `decomposition` | 2020-07-28 |
-| 275 | 0 |  | [hspan zorder not honored in Seaborn boxplot](https://stackoverflow.com/a/64986381) | `python`, `plot`, `seaborn`, `data-visualization`, `boxplot` | 2020-11-24 |
-| 276 | 0 |  | [square root of a number greater than 10^2000 in Python 3](https://stackoverflow.com/a/65825329) | `python`, `python-3.x`, `large-data`, `largenumber`, `square-root` | 2021-01-21 |
-| 277 | 0 | ✓ | [Error in topsis(d, w, i) : 'decision' must be a matrix or data frame](https://stackoverflow.com/a/66045451) | `r`, `dataframe`, `matrix`, `type-conversion` | 2021-02-04 |
-| 278 | 0 |  | [Python find numbers not in set](https://stackoverflow.com/a/67297202) | `python`, `set`, `range`, `difference` | 2021-04-28 |
-| 279 | 0 |  | [Installing PyHook python 3.7 64 bit](https://stackoverflow.com/a/67343840) | `python`, `python-3.x`, `installation`, `package`, `pyhook` | 2021-05-01 |
-| 280 | 0 |  | [ModuleNotFoundError: No module named 'pyHook'](https://stackoverflow.com/a/67344011) | `python`, `python-3.x`, `installation`, `import`, `pyhook` | 2021-05-01 |
-| 281 | 0 |  | [Drawing a boxplot of a Panda dataframe with time intervals](https://stackoverflow.com/a/67398811) | `python`, `pandas`, `dataframe`, `statistics`, `boxplot` | 2021-05-05 |
-| 282 | 0 |  | [ValueError: could not convert string to float: '86,5484466552734'](https://stackoverflow.com/a/67584594) | `python`, `python-3.x`, `pandas`, `string`, `floating-point` | 2021-05-18 |
-| 283 | 0 |  | [How to implement Vector Auto-Regression in Python?](https://stackoverflow.com/a/67647214) | `python`, `pandas`, `time-series`, `forecasting`, `statsmodels` | 2021-05-22 |
-| 284 | 0 |  | [Question on how to create a new column based on current df columns](https://stackoverflow.com/a/67678748) | `python`, `python-3.x`, `pandas`, `dataframe` | 2021-05-24 |
-| 285 | 0 |  | [Compare Two .xlsx workbooks and print differences into a 3. workbook in python](https://stackoverflow.com/a/67678914) | `python`, `python-3.x`, `pandas`, `printing`, `xlsx` | 2021-05-24 |
-| 286 | 0 |  | [Passing a defaultdict into a df](https://stackoverflow.com/a/67736807) | `python`, `pandas`, `dataframe`, `dictionary`, `defaultdict` | 2021-05-28 |
-| 287 | 0 |  | [Date conversion doesn't work when creating new column](https://stackoverflow.com/a/67738133) | `python`, `python-3.x`, `pandas`, `dataframe`, `datetime` | 2021-05-28 |
-| 288 | 0 |  | [Send a direct message on private message to welcome new users who join the server](https://stackoverflow.com/a/67742150) | `javascript`, `discord`, `discord.js` | 2021-05-28 |
-| 289 | 0 |  | [Loading an HDF dataset into python, but it's recognized as empty](https://stackoverflow.com/a/67746534) | `python`, `matlab`, `pandas`, `hdf` | 2021-05-28 |
-| 290 | 0 |  | [check if a number already exist in a list in python](https://stackoverflow.com/a/70054989) | `python`, `list`, `data-structures`, `set`, `append` | 2021-11-21 |
-| 291 | 0 |  | [Token has been expired or revoked Again and Again in WordPress](https://stackoverflow.com/a/70938514) | `wordpress`, `email`, `google-cloud-platform`, `gmail`, `google-workspace` | 2022-02-01 |
-| 292 | 0 |  | [MAPE calculation in Python](https://stackoverflow.com/a/71212194) | `python`, `python-3.x`, `pandas`, `numpy`, `spyder` | 2022-02-21 |
-| 293 | 0 | ✓ | [ModuleNotFoundError: No module named 'sktime.transformers'](https://stackoverflow.com/a/71220188) | `python`, `scikit-learn`, `rocket`, `sktime` | 2022-02-22 |
-| 294 | 0 |  | [Redirect after Login on WordPress](https://stackoverflow.com/a/71295932) | `php`, `wordpress`, `http-redirect`, `wordpress-theming` | 2022-02-28 |
-| 295 | 0 |  | [Drop rows by index from dataframe](https://stackoverflow.com/a/71350313) | `python`, `pandas`, `dataframe` | 2022-03-04 |
+| 179 | 1 |  | [Drop rows by index from dataframe](https://stackoverflow.com/a/71350313) | `python`, `pandas`, `dataframe` | 2022-03-04 |
+| 180 | 1 |  | [How to Ignore errors in Dataframe to_sql method](https://stackoverflow.com/a/72028992) | `python`, `python-3.x`, `pandas`, `dataframe`, `pandas-to-sql` | 2022-04-27 |
+| 181 | 1 | ✓ | [pandas dataframe groupby get count by multi column condition](https://stackoverflow.com/a/72039918) | `python`, `pandas`, `dataframe` | 2022-04-28 |
+| 182 | 1 |  | [How to save c++ code file using visual code?](https://stackoverflow.com/a/72044161) | `c++`, `visual-studio-code` | 2022-04-28 |
+| 183 | 1 |  | [How to calculate bed mates and length of time spent together](https://stackoverflow.com/a/72057087) | `python`, `pandas` | 2022-04-29 |
+| 184 | 1 | ✓ | [i need to return a value from a dataframe cell as a variable not a series](https://stackoverflow.com/a/72076528) | `pandas`, `dataframe`, `python-3.8`, `pandas-loc` | 2022-05-01 |
+| 185 | 1 |  | [Django - upload a file to the cloud (Azure blob storage) with progress bar](https://stackoverflow.com/a/72792165) | `python`, `django`, `ajax`, `azure`, `progress-bar` | 2022-06-28 |
+| 186 | 1 |  | [jira and git linking up](https://stackoverflow.com/a/72876089) | `git`, `jira` | 2022-07-05 |
+| 187 | 1 |  | [Extract max distance for IDs that visited multiple (lat,lon)](https://stackoverflow.com/a/72949526) | `python`, `pandas`, `geolocation`, `distance`, `geopandas` | 2022-07-12 |
+| 188 | 1 |  | [Django ORM query optimisation with multiple joins](https://stackoverflow.com/a/73378242) | `python`, `django`, `django-models`, `django-orm` | 2022-08-16 |
+| 189 | 1 |  | [Convert live Django project to REST API project](https://stackoverflow.com/a/73407677) | `python`, `django`, `django-rest-framework`, `django-forms` | 2022-08-18 |
+| 190 | 1 | ✓ | [Django DeleteView success_url to previous/different page](https://stackoverflow.com/a/73408375) | `python`, `django`, `django-views`, `django-urls` | 2022-08-18 |
+| 191 | 1 |  | [is it possible to have google-auth within django template?](https://stackoverflow.com/a/73417690) | `django`, `authentication`, `django-templates`, `django-authentication`, `django-allauth` | 2022-08-19 |
+| 192 | 1 |  | [Django folder structure for created file, static? media? or another one?](https://stackoverflow.com/a/73426328) | `python`, `django` | 2022-08-20 |
+| 193 | 1 | ✓ | [How do I assign groups to python-pandas data based on integer column?](https://stackoverflow.com/a/73529835) | `python`, `pandas` | 2022-08-29 |
+| 194 | 1 |  | [How do you perform conditional operations on different elements in a Pandas DataFrame?](https://stackoverflow.com/a/73553408) | `python`, `pandas`, `dataframe` | 2022-08-31 |
+| 195 | 1 |  | [Object ownership validation in Django UpdateView](https://stackoverflow.com/a/73559199) | `django`, `django-views`, `django-class-based-views` | 2022-08-31 |
+| 196 | 1 |  | [How to test user ownership of object using Django decorators](https://stackoverflow.com/a/73559225) | `python`, `django`, `django-models`, `django-views`, `django-class-based-views` | 2022-08-31 |
+| 197 | 1 |  | [I can't make migrate back, after I deleted them in Django?](https://stackoverflow.com/a/73560188) | `python`, `django`, `django-migrations` | 2022-08-31 |
+| 198 | 1 |  | [connection refused django gunicorn nginx](https://stackoverflow.com/a/73582750) | `django`, `ubuntu`, `nginx`, `gunicorn` | 2022-09-02 |
+| 199 | 1 | ✓ | [Creating Subfolders on bases of Image Name and Complexity in CSV Python](https://stackoverflow.com/a/73607566) | `python`, `pandas`, `image`, `directory`, `label` | 2022-09-05 |
+| 200 | 1 |  | [How to save credit card information and use it for future purchases with Django and Stripe?](https://stackoverflow.com/a/73614292) | `python`, `django`, `stripe-payments` | 2022-09-05 |
+| 201 | 1 |  | [how to use image as option in django model form](https://stackoverflow.com/a/73621768) | `python`, `django`, `django-models`, `django-views`, `django-forms` | 2022-09-06 |
+| 202 | 1 | ✓ | [Specify Factory db column names with FactoryBoy in a Django Test?](https://stackoverflow.com/a/73624508) | `python`, `django`, `pytest`, `pytest-django`, `factory-boy` | 2022-09-06 |
+| 203 | 1 | ✓ | [Django architecture for different clients/technologies using same models](https://stackoverflow.com/a/73626930) | `python`, `django`, `architecture`, `multiple-databases` | 2022-09-06 |
+| 204 | 1 |  | [Django/MySQl how to fix Database returned an invalid datetime value. Are time zone definitions for your database installed?](https://stackoverflow.com/a/73636129) | `python`, `mysql`, `django`, `phpmyadmin`, `cpanel` | 2022-09-07 |
+| 205 | 1 | ✓ | [How to exclude certain system checks from running on `manage.py migrate`?](https://stackoverflow.com/a/73672906) | `python`, `django`, `django-migrations`, `django-manage.py` | 2022-09-10 |
+| 206 | 1 | ✓ | [If the username or password is invalid when logging in, how can appear an error on page without refreshing itself, Django](https://stackoverflow.com/a/73694017) | `javascript`, `python`, `django` | 2022-09-12 |
+| 207 | 1 |  | [Pandas groupby and transform based on multiple columns](https://stackoverflow.com/a/73708312) | `python`, `pandas`, `dataframe`, `group-by`, `transform` | 2022-09-13 |
+| 208 | 1 |  | [How to get values from list of nested dictionaries?](https://stackoverflow.com/a/73709018) | `python`, `pandas`, `list`, `dataframe`, `dictionary` | 2022-09-13 |
+| 209 | 1 | ✓ | [How to filter a column with list of elements in Python dataframe](https://stackoverflow.com/a/73709864) | `python`, `python-3.x`, `pandas`, `string`, `dataframe` | 2022-09-13 |
+| 210 | 1 |  | [Pandas map, check if any values in a list is inside another](https://stackoverflow.com/a/73718345) | `python`, `pandas`, `list`, `dataframe`, `series` | 2022-09-14 |
+| 211 | 1 | ✓ | [Remove substring from string if substring in list in data frame column](https://stackoverflow.com/a/73719025) | `python`, `python-3.x`, `pandas`, `string`, `dataframe` | 2022-09-14 |
+| 212 | 1 |  | [Pandas long to wide with a twist](https://stackoverflow.com/a/73778836) | `python`, `pandas`, `dataframe`, `parsing` | 2022-09-19 |
+| 213 | 1 | ✓ | [Faster way to find all columns are with no missing values?](https://stackoverflow.com/a/73779175) | `python`, `pandas`, `dataframe`, `numpy`, `missing-data` | 2022-09-19 |
+| 214 | 1 | ✓ | [Does a flexible group by function exist?](https://stackoverflow.com/a/73783359) | `python`, `pandas`, `dataframe`, `group-by`, `merge` | 2022-09-20 |
+| 215 | 1 |  | [nan values when creating a pd.Series through a function](https://stackoverflow.com/a/73784835) | `python`, `pandas`, `dataframe`, `nan`, `series` | 2022-09-20 |
+| 216 | 1 |  | [Django - developing an app using a modular architecture](https://stackoverflow.com/a/73786858) | `python`, `django`, `plugins` | 2022-09-20 |
+| 217 | 1 | ✓ | [How to drop rows that do not meet multiple conditions python](https://stackoverflow.com/a/73811014) | `pandas`, `filter` | 2022-09-22 |
+| 218 | 1 |  | [Extracting keys from dataframe of json](https://stackoverflow.com/a/73836095) | `python`, `json`, `pandas`, `key`, `extract` | 2022-09-24 |
+| 219 | 1 |  | [Count number of occurrences of text over row python pandas](https://stackoverflow.com/a/73839332) | `python`, `pandas` | 2022-09-24 |
+| 220 | 1 | ✓ | [Cast the two first words of a column to another column in the same dataframe](https://stackoverflow.com/a/73900121) | `python`, `python-3.x`, `pandas`, `dataframe` | 2022-09-29 |
+| 221 | 1 |  | [Error in installing Symfony4](https://stackoverflow.com/a/73933626) | `php`, `symfony`, `installation`, `frameworks` | 2022-10-03 |
+| 222 | 1 | ✓ | [Iterating through dataframe and doing calculations - stuck](https://stackoverflow.com/a/73940519) | `python`, `pandas` | 2022-10-03 |
+| 223 | 1 |  | [how to create a multilabel dataset from 3 dataframes](https://stackoverflow.com/a/73957453) | `python`, `python-3.x`, `pandas`, `dataframe`, `jupyter-notebook` | 2022-10-05 |
+| 224 | 1 | ✓ | [Fill in empty space by merging columns using Pandas Python](https://stackoverflow.com/a/73959416) | `python`, `pandas`, `dataframe`, `jupyter-notebook`, `txt` | 2022-10-05 |
+| 225 | 1 | ✓ | [How to return next day with str condition in Pandas?](https://stackoverflow.com/a/73960083) | `python`, `python-3.x`, `pandas`, `dataframe`, `conditional-statements` | 2022-10-05 |
+| 226 | 1 | ✓ | [How to create a pandas dataframe from a nested json file?](https://stackoverflow.com/a/73975331) | `python`, `pandas`, `dataframe` | 2022-10-06 |
+| 227 | 1 | ✓ | [I am trying to create a new column in python dataframe using apply, lambda and if elif else functions. I am getting the error of invalid syntex](https://stackoverflow.com/a/73976202) | `python`, `pandas`, `lambda` | 2022-10-06 |
+| 228 | 1 | ✓ | [How pull closest maturity date in relation to each as of date in python using groupby](https://stackoverflow.com/a/73978609) | `python`, `pandas`, `dataframe`, `date`, `datetime` | 2022-10-06 |
+| 229 | 1 |  | [Python: Fill dataframe column depending on other column](https://stackoverflow.com/a/73984991) | `python`, `pandas`, `string`, `dataframe`, `numpy` | 2022-10-07 |
+| 230 | 1 | ✓ | [How do I CONCAT data from a dataframe to another dataframe?](https://stackoverflow.com/a/74015321) | `python`, `pandas`, `dataframe`, `merge`, `concatenation` | 2022-10-10 |
+| 231 | 1 | ✓ | [Iterating over row and editing strings in Pandas](https://stackoverflow.com/a/74030711) | `python`, `pandas`, `string` | 2022-10-11 |
+| 232 | 1 | ✓ | [Pandas series to list of dictionaries with specific structure](https://stackoverflow.com/a/74031079) | `python`, `pandas`, `dictionary`, `data-structures` | 2022-10-11 |
+| 233 | 1 |  | [Convert nested dictionary to pandas dataframe in python](https://stackoverflow.com/a/74032455) | `python`, `pandas`, `dataframe`, `dictionary` | 2022-10-11 |
+| 234 | 1 |  | [Row-wise count in pandas?](https://stackoverflow.com/a/74044456) | `python`, `pandas`, `dataframe`, `apply` | 2022-10-12 |
+| 235 | 1 |  | [Counting number of zeros per row by Pandas DataFrame?](https://stackoverflow.com/a/74044811) | `python`, `pandas` | 2022-10-12 |
+| 236 | 1 | ✓ | [How to obtain unique dates as a list from DataFrame with Datetime index](https://stackoverflow.com/a/74045408) | `python`, `pandas`, `dataframe` | 2022-10-12 |
+| 237 | 1 | ✓ | [Emulating xlookup with Pandas or Numpy Python](https://stackoverflow.com/a/74053852) | `python`, `pandas`, `dataframe`, `numpy` | 2022-10-13 |
+| 238 | 1 |  | [Scania’s Air Pressure System's Failures](https://stackoverflow.com/a/74095476) | `python`, `pandas`, `dataframe`, `missing-data`, `eda` | 2022-10-17 |
+| 239 | 1 |  | [Search column of lists](https://stackoverflow.com/a/74106837) | `python`, `pandas`, `list` | 2022-10-18 |
+| 240 | 1 |  | [Python: ImportError: lxml not found, please install it](https://stackoverflow.com/a/74107396) | `python`, `macos` | 2022-10-18 |
+| 241 | 1 | ✓ | [Convert to DataFrame?](https://stackoverflow.com/a/74107921) | `pandas`, `numpy` | 2022-10-18 |
+| 242 | 1 | ✓ | [Pandas - Apply a function on a comma-separated column of feature names and store the weights in separate corresponding columns](https://stackoverflow.com/a/74108674) | `python`, `pandas` | 2022-10-18 |
+| 243 | 1 | ✓ | [Dataframe does not have separated columns for every data after reading CSV file](https://stackoverflow.com/a/74110584) | `python`, `python-3.x`, `pandas`, `dataframe`, `csv` | 2022-10-18 |
+| 244 | 1 | ✓ | [Python pandas how to update a column with value 1 if another column contains a certain word](https://stackoverflow.com/a/74122045) | `python`, `pandas`, `replace`, `contains` | 2022-10-19 |
+| 245 | 1 |  | [Removing None values from DataFrame in Python](https://stackoverflow.com/a/74192784) | `python`, `pandas`, `dataframe`, `filter` | 2022-10-25 |
+| 246 | 1 | ✓ | [pandas overlay on top of a plot](https://stackoverflow.com/a/74193890) | `python`, `pandas`, `dataframe`, `date`, `matplotlib` | 2022-10-25 |
+| 247 | 1 | ✓ | [Convert the string into a float value](https://stackoverflow.com/a/74206110) | `python`, `pandas`, `dataframe`, `numpy` | 2022-10-26 |
+| 248 | 1 |  | [operation between columns according to the value it contains](https://stackoverflow.com/a/74223108) | `python`, `pandas` | 2022-10-27 |
+| 249 | 1 |  | [What's the most efficient way to convert a string like "3:00pm" to a Python datetime object?](https://stackoverflow.com/a/74223648) | `python`, `pandas`, `datetime`, `datetime-format` | 2022-10-27 |
+| 250 | 1 | ✓ | [JSON edit in Python](https://stackoverflow.com/a/74233600) | `python`, `python-3.x`, `pandas`, `dataframe` | 2022-10-28 |
+| 251 | 1 | ✓ | [How to find the optimal bin width which will include most datapoints in Python](https://stackoverflow.com/a/74234373) | `python`, `pandas`, `grouping`, `binning`, `data-preprocessing` | 2022-10-28 |
+| 252 | 1 |  | [How to calculate the avearge of every 4 elements in numpy array](https://stackoverflow.com/a/74262249) | `python`, `numpy` | 2022-10-31 |
+| 253 | 1 |  | [Python Regex - Summing the total of times strings from a list appear in a separate string](https://stackoverflow.com/a/74263604) | `python`, `regex`, `text`, `count`, `python-re` | 2022-10-31 |
+| 254 | 1 |  | [How to return the max value from another dataframe](https://stackoverflow.com/a/74266937) | `python`, `pandas`, `dataframe` | 2022-10-31 |
+| 255 | 1 |  | [Python / Pandas Join records when they match in at least one column](https://stackoverflow.com/a/74269731) | `python`, `pandas`, `numpy` | 2022-10-31 |
+| 256 | 1 |  | [Show how much there is of a certain value in each column in pandas](https://stackoverflow.com/a/74288469) | `python`, `pandas` | 2022-11-02 |
+| 257 | 1 |  | [How to generate a list from a pandas dataframe with column name and values as nested list](https://stackoverflow.com/a/74319774) | `python`, `pandas`, `list`, `dataframe` | 2022-11-04 |
+| 258 | 1 | ✓ | [Dropping rows by index that doesn't exist in other dataframe](https://stackoverflow.com/a/74320160) | `python`, `pandas`, `dataframe` | 2022-11-04 |
+| 259 | 1 |  | [Remove special character (?, ()) from value in dataframe](https://stackoverflow.com/a/74374453) | `python`, `pandas`, `dataframe`, `replace`, `special-characters` | 2022-11-09 |
+| 260 | 1 |  | [using pandas make a string column into multiple columns with True/False](https://stackoverflow.com/a/74375217) | `python`, `pandas` | 2022-11-09 |
+| 261 | 1 |  | [Using regex in python to delete (or replace) parentheses and items inside them](https://stackoverflow.com/a/74434016) | `python`, `pandas`, `string`, `replace` | 2022-11-14 |
+| 262 | 1 |  | [How to convert time format in pandas](https://stackoverflow.com/a/74434628) | `python`, `pandas` | 2022-11-14 |
+| 263 | 1 | ✓ | [Django Template – Mark only certain HTML tags as safe](https://stackoverflow.com/a/74715131) | `html`, `django` | 2022-12-07 |
+| 264 | 1 |  | [Dataframe concatenation with same indexes and different column sizes](https://stackoverflow.com/a/74774385) | `python`, `pandas`, `dataframe`, `concatenation` | 2022-12-12 |
+| 265 | 1 |  | [Boolean for unique value in a column](https://stackoverflow.com/a/74783779) | `python`, `pandas`, `dataframe`, `unique` | 2022-12-13 |
+| 266 | 1 |  | [Linkedin share link image not showing](https://stackoverflow.com/a/75498797) | `linkedin-api`, `eleventy` | 2023-02-19 |
+| 267 | 1 |  | [In Pandas, how to retrieve the rows which created each group, after aggregation and filtering?](https://stackoverflow.com/a/75854858) | `python`, `pandas`, `aggregate` | 2023-03-27 |
+| 268 | 1 | ✓ | [Seaborn: cumulative sum and hue](https://stackoverflow.com/a/75855423) | `python`, `python-3.x`, `pandas`, `seaborn`, `visualization` | 2023-03-27 |
+| 269 | 1 |  | [Python Package not Found when Trying to Install on Anaconda Powershell](https://stackoverflow.com/a/76149038) | `python`, `python-3.x`, `anaconda`, `jupyter-lab`, `python-install` | 2023-05-01 |
+| 270 | 0 |  | [Why does my Spark only use two computers in the cluster?](https://stackoverflow.com/a/59193280) | `apache-spark`, `cluster-computing` | 2019-12-05 |
+| 271 | 0 |  | [Twitter API - Reasons for "invalid or expired token"](https://stackoverflow.com/a/60459354) | `twitter`, `token`, `twitter-oauth` | 2020-02-28 |
+| 272 | 0 |  | [xlrd reading xls XLRDError: Unsupported format, or corrupt file: Expected BOF record; found '\r\n<html>'](https://stackoverflow.com/a/62974071) | `python`, `excel`, `dataframe`, `xls`, `xlrd` | 2020-07-18 |
+| 273 | 0 |  | [How to merge multiple csv files into a single csv files](https://stackoverflow.com/a/62974261) | `java`, `csv`, `join`, `merge` | 2020-07-18 |
+| 274 | 0 |  | [Pandas: print column name with missing values](https://stackoverflow.com/a/63042204) | `python`, `pandas`, `dataframe`, `nan`, `missing-data` | 2020-07-22 |
+| 275 | 0 |  | [None freq not allowing seasonal_decompose](https://stackoverflow.com/a/63130286) | `python`, `dataframe`, `time`, `time-series`, `decomposition` | 2020-07-28 |
+| 276 | 0 |  | [hspan zorder not honored in Seaborn boxplot](https://stackoverflow.com/a/64986381) | `python`, `plot`, `seaborn`, `data-visualization`, `boxplot` | 2020-11-24 |
+| 277 | 0 |  | [square root of a number greater than 10^2000 in Python 3](https://stackoverflow.com/a/65825329) | `python`, `python-3.x`, `large-data`, `largenumber`, `square-root` | 2021-01-21 |
+| 278 | 0 | ✓ | [Error in topsis(d, w, i) : 'decision' must be a matrix or data frame](https://stackoverflow.com/a/66045451) | `r`, `dataframe`, `matrix`, `type-conversion` | 2021-02-04 |
+| 279 | 0 |  | [Python find numbers not in set](https://stackoverflow.com/a/67297202) | `python`, `set`, `range`, `difference` | 2021-04-28 |
+| 280 | 0 |  | [Installing PyHook python 3.7 64 bit](https://stackoverflow.com/a/67343840) | `python`, `python-3.x`, `installation`, `package`, `pyhook` | 2021-05-01 |
+| 281 | 0 |  | [ModuleNotFoundError: No module named 'pyHook'](https://stackoverflow.com/a/67344011) | `python`, `python-3.x`, `installation`, `import`, `pyhook` | 2021-05-01 |
+| 282 | 0 |  | [Drawing a boxplot of a Panda dataframe with time intervals](https://stackoverflow.com/a/67398811) | `python`, `pandas`, `dataframe`, `statistics`, `boxplot` | 2021-05-05 |
+| 283 | 0 |  | [ValueError: could not convert string to float: '86,5484466552734'](https://stackoverflow.com/a/67584594) | `python`, `python-3.x`, `pandas`, `string`, `floating-point` | 2021-05-18 |
+| 284 | 0 |  | [How to implement Vector Auto-Regression in Python?](https://stackoverflow.com/a/67647214) | `python`, `pandas`, `time-series`, `forecasting`, `statsmodels` | 2021-05-22 |
+| 285 | 0 |  | [Question on how to create a new column based on current df columns](https://stackoverflow.com/a/67678748) | `python`, `python-3.x`, `pandas`, `dataframe` | 2021-05-24 |
+| 286 | 0 |  | [Compare Two .xlsx workbooks and print differences into a 3. workbook in python](https://stackoverflow.com/a/67678914) | `python`, `python-3.x`, `pandas`, `printing`, `xlsx` | 2021-05-24 |
+| 287 | 0 |  | [Passing a defaultdict into a df](https://stackoverflow.com/a/67736807) | `python`, `pandas`, `dataframe`, `dictionary`, `defaultdict` | 2021-05-28 |
+| 288 | 0 |  | [Date conversion doesn't work when creating new column](https://stackoverflow.com/a/67738133) | `python`, `python-3.x`, `pandas`, `dataframe`, `datetime` | 2021-05-28 |
+| 289 | 0 |  | [Send a direct message on private message to welcome new users who join the server](https://stackoverflow.com/a/67742150) | `javascript`, `discord`, `discord.js` | 2021-05-28 |
+| 290 | 0 |  | [Loading an HDF dataset into python, but it's recognized as empty](https://stackoverflow.com/a/67746534) | `python`, `matlab`, `pandas`, `hdf` | 2021-05-28 |
+| 291 | 0 |  | [check if a number already exist in a list in python](https://stackoverflow.com/a/70054989) | `python`, `list`, `data-structures`, `set`, `append` | 2021-11-21 |
+| 292 | 0 |  | [Token has been expired or revoked Again and Again in WordPress](https://stackoverflow.com/a/70938514) | `wordpress`, `email`, `google-cloud-platform`, `gmail`, `google-workspace` | 2022-02-01 |
+| 293 | 0 |  | [MAPE calculation in Python](https://stackoverflow.com/a/71212194) | `python`, `python-3.x`, `pandas`, `numpy`, `spyder` | 2022-02-21 |
+| 294 | 0 | ✓ | [ModuleNotFoundError: No module named 'sktime.transformers'](https://stackoverflow.com/a/71220188) | `python`, `scikit-learn`, `rocket`, `sktime` | 2022-02-22 |
+| 295 | 0 |  | [Redirect after Login on WordPress](https://stackoverflow.com/a/71295932) | `php`, `wordpress`, `http-redirect`, `wordpress-theming` | 2022-02-28 |
 | 296 | 0 |  | [How to round all elements of a list using a list comprehension?](https://stackoverflow.com/a/71409974) | `python`, `list`, `floating-point`, `list-comprehension`, `rounding` | 2022-03-09 |
 | 297 | 0 |  | [Given a list of strings, return characters that appear in more than one string](https://stackoverflow.com/a/71921910) | `python`, `python-3.x`, `string`, `list`, `set` | 2022-04-19 |
 | 298 | 0 | ✓ | [convert seconds in list of dictionaries into hours, python](https://stackoverflow.com/a/72014560) | `python`, `list`, `dictionary`, `datetime`, `seconds` | 2022-04-26 |
