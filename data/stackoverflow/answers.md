@@ -6,7 +6,7 @@
 | 2 | 64 |  | [How do I update or sync a forked repository on GitHub?](https://stackoverflow.com/a/65401892) | `git`, `github`, `synchronization`, `repository`, `git-fork` | 2020-12-22 |
 | 3 | 43 |  | [How to sort pandas dataframe by one column](https://stackoverflow.com/a/66064796) | `python`, `pandas`, `dataframe`, `sorting`, `datetime` | 2021-02-05 |
 | 4 | 33 |  | [Using Pandas to pd.read_excel() for multiple (but not all) worksheets of the same workbook without reloading the whole file](https://stackoverflow.com/a/64986290) | `python`, `excel`, `pandas`, `dataframe`, `xlsx` | 2020-11-24 |
-| 5 | 26 |  | [Pandas Merging 101](https://stackoverflow.com/a/63338203) | `python`, `pandas`, `join`, `merge`, `concatenation` | 2020-08-10 |
+| 5 | 27 |  | [Pandas Merging 101](https://stackoverflow.com/a/63338203) | `python`, `pandas`, `join`, `merge`, `concatenation` | 2020-08-10 |
 | 6 | 23 |  | [How to slice a pandas DataFrame by position?](https://stackoverflow.com/a/64576966) | `python`, `pandas`, `dataframe`, `slice` | 2020-10-28 |
 | 7 | 22 |  | [Update Git branches from master](https://stackoverflow.com/a/73501164) | `git`, `git-branch` | 2022-08-26 |
 | 8 | 22 | ✓ | [How to install node.js and npm on Ubuntu terminal using WSL2 in windows 10](https://stackoverflow.com/a/75739322) | `node.js`, `npm`, `terminal`, `windows-10`, `windows-subsystem-for-linux` | 2023-03-14 |
@@ -19,15 +19,15 @@
 | 15 | 10 | ✓ | [Installing fbprophet Python on Windows 10](https://stackoverflow.com/a/64878241) | `python`, `windows`, `anaconda`, `conda`, `facebook-prophet` | 2020-11-17 |
 | 16 | 10 |  | [Deleting DataFrame row in Pandas based on column value](https://stackoverflow.com/a/73970910) | `python`, `pandas`, `dataframe`, `performance`, `delete-row` | 2022-10-06 |
 | 17 | 8 |  | [Remove top row from a dataframe](https://stackoverflow.com/a/63031195) | `python`, `pandas`, `dataframe`, `drop` | 2020-07-22 |
-| 18 | 8 |  | [Can I change the color of Font Awesome's cog icon?](https://stackoverflow.com/a/63324002) | `html`, `css`, `colors`, `icons`, `font-awesome` | 2020-08-09 |
-| 19 | 8 |  | [rustc/cargo not recognized as an internal or external command](https://stackoverflow.com/a/69191257) | `windows`, `rust` | 2021-09-15 |
-| 20 | 8 |  | [How do I prevent `rust doc` from adding dependencies to documentation?](https://stackoverflow.com/a/69191588) | `rust`, `rust-cargo`, `rustdoc` | 2021-09-15 |
-| 21 | 8 |  | [Where should utility functions live in Django?](https://stackoverflow.com/a/73703415) | `python`, `django`, `structure` | 2022-09-13 |
-| 22 | 8 |  | [Numpy "where" with multiple conditions](https://stackoverflow.com/a/73772863) | `python`, `pandas`, `numpy`, `dataframe` | 2022-09-19 |
-| 23 | 8 |  | [Huggingface Transformers Conda Install issue](https://stackoverflow.com/a/73835706) | `python`, `installation`, `anaconda`, `conda`, `huggingface-transformers` | 2022-09-24 |
-| 24 | 7 |  | [How do I open a URL from C++?](https://stackoverflow.com/a/60225910) | `html`, `c++`, `unix`, `url`, `browser` | 2020-02-14 |
-| 25 | 7 |  | [How to install plugin for MobaXterm?](https://stackoverflow.com/a/62871640) | `windows`, `unix`, `plugins`, `remote-access`, `mobaxterm` | 2020-07-13 |
-| 26 | 7 |  | [Python Pandas dataframe find missing values](https://stackoverflow.com/a/63042180) | `python`, `pandas`, `dataframe`, `find`, `missing-data` | 2020-07-22 |
+| 18 | 8 |  | [Python Pandas dataframe find missing values](https://stackoverflow.com/a/63042180) | `python`, `pandas`, `dataframe`, `find`, `missing-data` | 2020-07-22 |
+| 19 | 8 |  | [Can I change the color of Font Awesome's cog icon?](https://stackoverflow.com/a/63324002) | `html`, `css`, `colors`, `icons`, `font-awesome` | 2020-08-09 |
+| 20 | 8 |  | [rustc/cargo not recognized as an internal or external command](https://stackoverflow.com/a/69191257) | `windows`, `rust` | 2021-09-15 |
+| 21 | 8 |  | [How do I prevent `rust doc` from adding dependencies to documentation?](https://stackoverflow.com/a/69191588) | `rust`, `rust-cargo`, `rustdoc` | 2021-09-15 |
+| 22 | 8 |  | [Where should utility functions live in Django?](https://stackoverflow.com/a/73703415) | `python`, `django`, `structure` | 2022-09-13 |
+| 23 | 8 |  | [Numpy "where" with multiple conditions](https://stackoverflow.com/a/73772863) | `python`, `pandas`, `numpy`, `dataframe` | 2022-09-19 |
+| 24 | 8 |  | [Huggingface Transformers Conda Install issue](https://stackoverflow.com/a/73835706) | `python`, `installation`, `anaconda`, `conda`, `huggingface-transformers` | 2022-09-24 |
+| 25 | 7 |  | [How do I open a URL from C++?](https://stackoverflow.com/a/60225910) | `html`, `c++`, `unix`, `url`, `browser` | 2020-02-14 |
+| 26 | 7 |  | [How to install plugin for MobaXterm?](https://stackoverflow.com/a/62871640) | `windows`, `unix`, `plugins`, `remote-access`, `mobaxterm` | 2020-07-13 |
 | 27 | 7 |  | [Plotly chart not showing in Jupyter notebook](https://stackoverflow.com/a/65478275) | `python`, `jupyter-notebook`, `plotly`, `jupyter`, `jupyter-lab` | 2020-12-28 |
 | 28 | 7 |  | [Rename MultiIndex columns in Pandas](https://stackoverflow.com/a/73836702) | `python`, `pandas`, `dataframe` | 2022-09-24 |
 | 29 | 7 |  | [pandas data frame transform INT64 columns to boolean](https://stackoverflow.com/a/74279500) | `python`, `pandas`, `dataframe`, `numpy`, `boolean` | 2022-11-01 |
@@ -50,25 +50,25 @@
 | 46 | 4 | ✓ | [Dynamic Badges GitHub](https://stackoverflow.com/a/49150702) | `git`, `github`, `badge`, `shields.io` | 2018-03-07 |
 | 47 | 4 |  | [AdMob interstellar ad dropped for 99%, but sessions numbers(usage) are the same?](https://stackoverflow.com/a/50640385) | `admob`, `flurry`, `flurry-analytics` | 2018-06-01 |
 | 48 | 4 |  | [Python SVG converter creates empty file](https://stackoverflow.com/a/56505674) | `python`, `python-3.x`, `type-conversion`, `cairo`, `rsvg` | 2019-06-08 |
-| 49 | 4 | ✓ | [Launching Spyder from Anaconda prompt](https://stackoverflow.com/a/62938691) | `python`, `command-line`, `anaconda`, `conda`, `spyder` | 2020-07-16 |
-| 50 | 4 |  | [Python df.to_excel() storing numbers as text in excel. How to store as Value?](https://stackoverflow.com/a/63339853) | `python`, `html`, `excel`, `pandas`, `dataframe` | 2020-08-10 |
-| 51 | 4 |  | [GPU processing - cuDF install problem (O/S or hardware issue?)](https://stackoverflow.com/a/64985593) | `python`, `python-3.x`, `windows`, `rapids`, `cudf` | 2020-11-24 |
-| 52 | 4 |  | [No module named 'pmdarima'](https://stackoverflow.com/a/65288537) | `python`, `import`, `jupyter-notebook`, `jupyter`, `pmdarima` | 2020-12-14 |
-| 53 | 4 |  | [Error: could not find function "%>%"](https://stackoverflow.com/a/65999784) | `r`, `dplyr`, `magrittr` | 2021-02-01 |
-| 54 | 4 | ✓ | [pykeyboard not importing from its module](https://stackoverflow.com/a/67343529) | `python`, `import`, `package`, `raspbian` | 2021-05-01 |
-| 55 | 4 |  | [Remove '\n' in text in pandas python](https://stackoverflow.com/a/67647455) | `python`, `regex`, `pandas`, `string`, `python-2.7` | 2021-05-22 |
-| 56 | 4 | ✓ | [How do you collaborate in Unity?](https://stackoverflow.com/a/71963750) | `unity-game-engine`, `version-control`, `devops`, `collaboration` | 2022-04-22 |
-| 57 | 4 | ✓ | [What causes these Int64 columns to cause a TypeError?](https://stackoverflow.com/a/72068905) | `python`, `pandas`, `types`, `group-by`, `typeerror` | 2022-04-30 |
-| 58 | 4 | ✓ | [Add Redis USER & PASS to Django channel layer](https://stackoverflow.com/a/73417081) | `django`, `websocket`, `redis`, `django-channels` | 2022-08-19 |
-| 59 | 4 |  | [Pylint: Disable Unnecessary "else" after "return" (no-else-return) warning](https://stackoverflow.com/a/73702199) | `python`, `pylint`, `pylintrc` | 2022-09-13 |
-| 60 | 4 |  | [What is the most efficient way to store a list in the Django models?](https://stackoverflow.com/a/73703997) | `python`, `django`, `django-models` | 2022-09-13 |
-| 61 | 4 |  | [How can I rename a conda environment?](https://stackoverflow.com/a/74098167) | `python`, `anaconda`, `conda` | 2022-10-17 |
-| 62 | 4 |  | [package org.springframework.boot does not exist](https://stackoverflow.com/a/76860330) | `java`, `spring`, `maven`, `spring-boot` | 2023-08-08 |
-| 63 | 3 | ✓ | [Angular app 6 in ASP.NET Core: More than one module matches](https://stackoverflow.com/a/54251671) | `angular`, `asp.net-core`, `angular6`, `angular-components` | 2019-01-18 |
-| 64 | 3 | ✓ | [StaticInjectorError - Populating drop-down lists](https://stackoverflow.com/a/54259061) | `angular`, `asp.net-core`, `drop-down-menu`, `angular6` | 2019-01-18 |
-| 65 | 3 |  | [Find all CSV files in a directory using Python](https://stackoverflow.com/a/62031727) | `python`, `csv`, `file`, `directory`, `find` | 2020-05-26 |
-| 66 | 3 |  | [Converting NaN in dataframe to zero](https://stackoverflow.com/a/62370485) | `python`, `pandas`, `dataframe`, `replace`, `nan` | 2020-06-14 |
-| 67 | 3 |  | [How do I get the day of week given a date?](https://stackoverflow.com/a/62752444) | `python`, `date`, `datetime`, `time`, `weekday` | 2020-07-06 |
+| 49 | 4 |  | [How do I get the day of week given a date?](https://stackoverflow.com/a/62752444) | `python`, `date`, `datetime`, `time`, `weekday` | 2020-07-06 |
+| 50 | 4 | ✓ | [Launching Spyder from Anaconda prompt](https://stackoverflow.com/a/62938691) | `python`, `command-line`, `anaconda`, `conda`, `spyder` | 2020-07-16 |
+| 51 | 4 |  | [Python df.to_excel() storing numbers as text in excel. How to store as Value?](https://stackoverflow.com/a/63339853) | `python`, `html`, `excel`, `pandas`, `dataframe` | 2020-08-10 |
+| 52 | 4 |  | [GPU processing - cuDF install problem (O/S or hardware issue?)](https://stackoverflow.com/a/64985593) | `python`, `python-3.x`, `windows`, `rapids`, `cudf` | 2020-11-24 |
+| 53 | 4 |  | [No module named 'pmdarima'](https://stackoverflow.com/a/65288537) | `python`, `import`, `jupyter-notebook`, `jupyter`, `pmdarima` | 2020-12-14 |
+| 54 | 4 |  | [Error: could not find function "%>%"](https://stackoverflow.com/a/65999784) | `r`, `dplyr`, `magrittr` | 2021-02-01 |
+| 55 | 4 | ✓ | [pykeyboard not importing from its module](https://stackoverflow.com/a/67343529) | `python`, `import`, `package`, `raspbian` | 2021-05-01 |
+| 56 | 4 |  | [Remove '\n' in text in pandas python](https://stackoverflow.com/a/67647455) | `python`, `regex`, `pandas`, `string`, `python-2.7` | 2021-05-22 |
+| 57 | 4 | ✓ | [How do you collaborate in Unity?](https://stackoverflow.com/a/71963750) | `unity-game-engine`, `version-control`, `devops`, `collaboration` | 2022-04-22 |
+| 58 | 4 | ✓ | [What causes these Int64 columns to cause a TypeError?](https://stackoverflow.com/a/72068905) | `python`, `pandas`, `types`, `group-by`, `typeerror` | 2022-04-30 |
+| 59 | 4 | ✓ | [Add Redis USER & PASS to Django channel layer](https://stackoverflow.com/a/73417081) | `django`, `websocket`, `redis`, `django-channels` | 2022-08-19 |
+| 60 | 4 |  | [Pylint: Disable Unnecessary "else" after "return" (no-else-return) warning](https://stackoverflow.com/a/73702199) | `python`, `pylint`, `pylintrc` | 2022-09-13 |
+| 61 | 4 |  | [What is the most efficient way to store a list in the Django models?](https://stackoverflow.com/a/73703997) | `python`, `django`, `django-models` | 2022-09-13 |
+| 62 | 4 |  | [How can I rename a conda environment?](https://stackoverflow.com/a/74098167) | `python`, `anaconda`, `conda` | 2022-10-17 |
+| 63 | 4 |  | [package org.springframework.boot does not exist](https://stackoverflow.com/a/76860330) | `java`, `spring`, `maven`, `spring-boot` | 2023-08-08 |
+| 64 | 3 | ✓ | [Angular app 6 in ASP.NET Core: More than one module matches](https://stackoverflow.com/a/54251671) | `angular`, `asp.net-core`, `angular6`, `angular-components` | 2019-01-18 |
+| 65 | 3 | ✓ | [StaticInjectorError - Populating drop-down lists](https://stackoverflow.com/a/54259061) | `angular`, `asp.net-core`, `drop-down-menu`, `angular6` | 2019-01-18 |
+| 66 | 3 |  | [Find all CSV files in a directory using Python](https://stackoverflow.com/a/62031727) | `python`, `csv`, `file`, `directory`, `find` | 2020-05-26 |
+| 67 | 3 |  | [Converting NaN in dataframe to zero](https://stackoverflow.com/a/62370485) | `python`, `pandas`, `dataframe`, `replace`, `nan` | 2020-06-14 |
 | 68 | 3 |  | [How to close IPython Notebook properly?](https://stackoverflow.com/a/64877958) | `python`, `jupyter-notebook`, `ipython`, `jupyter` | 2020-11-17 |
 | 69 | 3 |  | [Calculate average of every x rows in a table and create new table](https://stackoverflow.com/a/65613184) | `python`, `python-3.x`, `pandas`, `dataframe`, `numpy` | 2021-01-07 |
 | 70 | 3 |  | [Import multiple CSV files into pandas and concatenate into one DataFrame](https://stackoverflow.com/a/66103122) | `python`, `pandas`, `csv`, `dataframe`, `concatenation` | 2021-02-08 |

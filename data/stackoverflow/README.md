@@ -1,6 +1,6 @@
 # Stack Overflow
 
-[Profile](https://stackoverflow.com/users/7109869) | Reputation: 13,918 | Member since: 2016-11-03
+[Profile](https://stackoverflow.com/users/7109869) | Reputation: 13,948 | Member since: 2016-11-03
 
 | | Count |
 |---|---|

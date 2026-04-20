@@ -2,28 +2,28 @@
 
 | # | Score | Views | Answers | Accepted | Title | Tags | Date |
 |---|-------|-------|---------|----------|-------|------|------|
-| 1 | 19 | 58,998 | 3 | ✓ | [ASP.NET Core 2.2: Unable to resolve service for type 'AutoMapper.IMapper'](https://stackoverflow.com/q/54239669) | `c#`, `asp.net-core`, `.net-core`, `asp.net-core-mvc` | 2019-01-17 |
-| 2 | 5 | 1,421 | 2 | ✓ | [Split dataset per rows into smaller files in R](https://stackoverflow.com/q/57047338) | `r`, `import`, `split`, `dataset`, `bigdata` | 2019-07-15 |
+| 1 | 19 | 59,007 | 3 | ✓ | [ASP.NET Core 2.2: Unable to resolve service for type 'AutoMapper.IMapper'](https://stackoverflow.com/q/54239669) | `c#`, `asp.net-core`, `.net-core`, `asp.net-core-mvc` | 2019-01-17 |
+| 2 | 5 | 1,422 | 2 | ✓ | [Split dataset per rows into smaller files in R](https://stackoverflow.com/q/57047338) | `r`, `import`, `split`, `dataset`, `bigdata` | 2019-07-15 |
 | 3 | 5 | 2,368 | 2 | ✓ | [Unity3D playing sound when Player collides with an object with a specific tag](https://stackoverflow.com/q/59285897) | `c#`, `unity-game-engine`, `audio`, `collision` | 2019-12-11 |
 | 4 | 4 | 2,012 | 1 | ✓ | [CodeIgniter display a redirect message](https://stackoverflow.com/q/48773284) | `php`, `codeigniter`, `http-redirect` | 2018-02-13 |
-| 5 | 3 | 1,717 | 2 | ✓ | [Dynamic Badges GitHub](https://stackoverflow.com/q/49130448) | `git`, `github`, `badge`, `shields.io` | 2018-03-06 |
-| 6 | 3 | 1,039 | 2 | ✓ | [Angular app 6 in ASP.NET Core: More than one module matches](https://stackoverflow.com/q/54251659) | `angular`, `asp.net-core`, `angular6`, `angular-components` | 2019-01-18 |
-| 7 | 3 | 3,842 | 1 | ✓ | [ECCODES ERROR when opening .GRIB file in Spyder](https://stackoverflow.com/q/62939533) | `python`, `anaconda`, `spyder`, `grib`, `eccodes` | 2020-07-16 |
+| 5 | 3 | 1,718 | 2 | ✓ | [Dynamic Badges GitHub](https://stackoverflow.com/q/49130448) | `git`, `github`, `badge`, `shields.io` | 2018-03-06 |
+| 6 | 3 | 1,041 | 2 | ✓ | [Angular app 6 in ASP.NET Core: More than one module matches](https://stackoverflow.com/q/54251659) | `angular`, `asp.net-core`, `angular6`, `angular-components` | 2019-01-18 |
+| 7 | 3 | 3,844 | 1 | ✓ | [ECCODES ERROR when opening .GRIB file in Spyder](https://stackoverflow.com/q/62939533) | `python`, `anaconda`, `spyder`, `grib`, `eccodes` | 2020-07-16 |
 | 8 | 2 | 226 | 2 |  | [HTML5: Inclusion/Omission of closing in <input> or <p>](https://stackoverflow.com/q/52905841) | `html`, `tags`, `html-input` | 2018-10-20 |
 | 9 | 2 | 163 | 1 | ✓ | [StaticInjectorError - Populating drop-down lists](https://stackoverflow.com/q/54258859) | `angular`, `asp.net-core`, `drop-down-menu`, `angular6` | 2019-01-18 |
 | 10 | 2 | 164 | 1 | ✓ | [D3.Js require a file with a dynamic string path](https://stackoverflow.com/q/54310786) | `javascript`, `string`, `d3.js` | 2019-01-22 |
 | 11 | 2 | 471 | 2 | ✓ | [Error 1005 when Forward Engineering EER diagram](https://stackoverflow.com/q/56821483) | `mysql`, `foreign-keys`, `mysql-workbench`, `diagram`, `entity-relationship` | 2019-06-29 |
 | 12 | 2 | 134 | 1 | ✓ | [Split dataset file in parts of a specific size](https://stackoverflow.com/q/56957702) | `r`, `import`, `split`, `dataset`, `size` | 2019-07-09 |
-| 13 | 2 | 1,699 | 2 | ✓ | [Player disappears when it collides with a tagged object](https://stackoverflow.com/q/59184990) | `c#`, `unity-game-engine`, `scripting`, `collision` | 2019-12-04 |
+| 13 | 2 | 1,701 | 2 | ✓ | [Player disappears when it collides with a tagged object](https://stackoverflow.com/q/59184990) | `c#`, `unity-game-engine`, `scripting`, `collision` | 2019-12-04 |
 | 14 | 2 | 172 | 2 | ✓ | [Convert Variable Type from DataFrame to DatetimeIndex](https://stackoverflow.com/q/62730668) | `python`, `pandas`, `dataframe`, `datetime`, `type-conversion` | 2020-07-04 |
-| 15 | 2 | 259 | 2 | ✓ | [NetCDF get_dims too many values to unpack](https://stackoverflow.com/q/64559359) | `python`, `pandas`, `export-to-csv`, `netcdf`, `netcdf4` | 2020-10-27 |
-| 16 | 2 | 738 | 1 | ✓ | [Remove default styles on ConvertKit form in WordPress](https://stackoverflow.com/q/66488990) | `css`, `wordpress`, `forms`, `plugins`, `widget` | 2021-03-05 |
+| 15 | 2 | 260 | 2 | ✓ | [NetCDF get_dims too many values to unpack](https://stackoverflow.com/q/64559359) | `python`, `pandas`, `export-to-csv`, `netcdf`, `netcdf4` | 2020-10-27 |
+| 16 | 2 | 741 | 1 | ✓ | [Remove default styles on ConvertKit form in WordPress](https://stackoverflow.com/q/66488990) | `css`, `wordpress`, `forms`, `plugins`, `widget` | 2021-03-05 |
 | 17 | 1 | 291 | 1 | ✓ | [Error TS2717 when populating drop-down lists on an Angular with ASP.Net Core app](https://stackoverflow.com/q/54255392) | `node.js`, `angular`, `typescript`, `asp.net-core`, `rxjs` | 2019-01-18 |
-| 18 | 1 | 956 | 1 | ✓ | [D3.js: Import file changing with a slider](https://stackoverflow.com/q/54315685) | `javascript`, `d3.js`, `import`, `data-visualization` | 2019-01-22 |
+| 18 | 1 | 957 | 1 | ✓ | [D3.js: Import file changing with a slider](https://stackoverflow.com/q/54315685) | `javascript`, `d3.js`, `import`, `data-visualization` | 2019-01-22 |
 | 19 | 1 | 2,253 | 1 | ✓ | [D3js HTML Tooltip on a Choropleth Map](https://stackoverflow.com/q/54326128) | `javascript`, `d3.js` | 2019-01-23 |
 | 20 | 1 | 592 | 2 | ✓ | [Import ARFF dataset using RWeka in RStudio (depencendy error: rJava)](https://stackoverflow.com/q/55692355) | `r`, `rstudio`, `data-mining`, `apriori`, `arff` | 2019-04-15 |
-| 21 | 1 | 2,321 | 1 | ✓ | [Handle equivalent holidays for different countries in Prophet](https://stackoverflow.com/q/62730316) | `python`, `pandas`, `dataframe`, `datetime`, `facebook-prophet` | 2020-07-04 |
-| 22 | 1 | 166 | 1 | ✓ | [DataFrame groupby hour and do the mean for a specific column](https://stackoverflow.com/q/64655923) | `python`, `pandas`, `dataframe`, `pandas-groupby`, `mean` | 2020-11-03 |
+| 21 | 1 | 2,323 | 1 | ✓ | [Handle equivalent holidays for different countries in Prophet](https://stackoverflow.com/q/62730316) | `python`, `pandas`, `dataframe`, `datetime`, `facebook-prophet` | 2020-07-04 |
+| 22 | 1 | 167 | 1 | ✓ | [DataFrame groupby hour and do the mean for a specific column](https://stackoverflow.com/q/64655923) | `python`, `pandas`, `dataframe`, `pandas-groupby`, `mean` | 2020-11-03 |
 | 23 | 1 | 56 | 2 | ✓ | [Go through all the files within a range in groups of 24](https://stackoverflow.com/q/65555890) | `python`, `loops`, `for-loop`, `range` | 2021-01-03 |
 | 24 | 1 | 62 | 2 | ✓ | [Generate more than one date cells in each date_range](https://stackoverflow.com/q/65601635) | `python`, `pandas`, `dataframe`, `date`, `date-range` | 2021-01-06 |
 | 25 | 1 | 510 | 1 | ✓ | [Append different strings to a list of strings depending on its position in the list](https://stackoverflow.com/q/65828594) | `python`, `string`, `list`, `loops`, `append` | 2021-01-21 |
