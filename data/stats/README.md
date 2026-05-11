@@ -1,6 +1,6 @@
 # Cross Validated
 
-[Profile](https://stats.stackexchange.com/users/156678) | Reputation: 247 | Member since: 2017-04-10
+[Profile](https://stats.stackexchange.com/users/156678) | Reputation: 257 | Member since: 2017-04-10
 
 | | Count |
 |---|---|
