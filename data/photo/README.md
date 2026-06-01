@@ -8,4 +8,4 @@
 | Questions | 2 |
 | Gold Badges | 1 |
 | Silver Badges | 2 |
-| Bronze Badges | 7 |
+| Bronze Badges | 8 |

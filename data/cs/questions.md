@@ -2,5 +2,5 @@
 
 | # | Score | Views | Answers | Accepted | Title | Tags | Date |
 |---|-------|-------|---------|----------|-------|------|------|
-| 1 | 4 | 1,274 | 2 |  | [Is Prediction the same as Compression?](https://cs.stackexchange.com/q/130655) | `information-theory`, `data-compression` | 2020-09-30 |
-| 2 | -3 | 399 | 1 | ✓ | [How many bits does a data bus need to have?](https://cs.stackexchange.com/q/93488) | `computer-architecture` | 2018-06-25 |
+| 1 | 4 | 1,275 | 2 |  | [Is Prediction the same as Compression?](https://cs.stackexchange.com/q/130655) | `information-theory`, `data-compression` | 2020-09-30 |
+| 2 | -3 | 400 | 1 | ✓ | [How many bits does a data bus need to have?](https://cs.stackexchange.com/q/93488) | `computer-architecture` | 2018-06-25 |
