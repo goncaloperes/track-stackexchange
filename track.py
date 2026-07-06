@@ -8,21 +8,22 @@ and generates organized markdown files.
 import html
 import os
 import shutil
+import sys
 
-from lib.utils import SCRIPT_DIR, DATA_DIR, NETWORK_USER_ID
 from lib.api import (
-    fetch_associated_accounts,
     fetch_answers,
-    fetch_questions,
+    fetch_associated_accounts,
     fetch_question_details,
+    fetch_questions,
     site_name_from_url,
 )
 from lib.markdown import (
-    generate_root_readme,
-    generate_community_readme,
     generate_answers_md,
+    generate_community_readme,
     generate_questions_md,
+    generate_root_readme,
 )
+from lib.utils import DATA_DIR, NETWORK_USER_ID, SCRIPT_DIR
 
 
 def main():
@@ -40,6 +41,7 @@ def main():
     print(f"Active communities (with posts): {len(active_accounts)}")
 
     community_data = []
+    failed_sites = set()
 
     for account in active_accounts:
         site_url = account["site_url"]
@@ -51,19 +53,28 @@ def main():
 
         print(f"\nProcessing {community_name} ({site})...")
 
-        # Fetch answers
-        answers = []
-        question_details = {}
-        if answer_count > 0:
-            answers = fetch_answers(site, user_id)
-            qids = [a["question_id"] for a in answers if "question_id" in a]
-            if qids:
-                question_details = fetch_question_details(site, qids)
+        try:
+            # Fetch answers
+            answers = []
+            question_details = {}
+            if answer_count > 0:
+                answers = fetch_answers(site, user_id)
+                qids = [a["question_id"] for a in answers if "question_id" in a]
+                if qids:
+                    question_details = fetch_question_details(site, qids)
 
-        # Fetch questions
-        questions = []
-        if question_count > 0:
-            questions = fetch_questions(site, user_id)
+            # Fetch questions
+            questions = []
+            if question_count > 0:
+                questions = fetch_questions(site, user_id)
+        except Exception as e:
+            # Isolate failures: skip this one community but keep its existing
+            # data (so a transient API error never wipes good history) and
+            # carry on with the rest of the run.
+            print(f"  ERROR fetching {community_name} ({site}): {e}")
+            print("  Skipping — keeping previously stored data for this community")
+            failed_sites.add(site)
+            continue
 
         # Skip communities with no actual posts fetched
         if not answers and not questions:
@@ -106,14 +117,23 @@ def main():
             }
         )
 
-    # Clean up directories for communities that are no longer active
+    # If every community failed this run, it's a systemic problem (API outage,
+    # throttling, network) — fail loudly and touch nothing, so we don't
+    # regenerate the READMEs or run the stale-directory cleanup from no data.
+    if active_accounts and not community_data:
+        print(f"\nERROR: all {len(active_accounts)} communities failed to fetch.")
+        sys.exit(1)
+
+    # Clean up directories for communities that are no longer active. A site
+    # that merely failed this run is excluded — its data is still valid, so we
+    # never delete it on a transient error.
     existing_dirs = {
         d
         for d in os.listdir(DATA_DIR)
         if os.path.isdir(os.path.join(DATA_DIR, d)) and not d.startswith(".")
     }
     active_dirs = {entry["site"] for entry in community_data}
-    for stale_dir in existing_dirs - active_dirs:
+    for stale_dir in existing_dirs - active_dirs - failed_sites:
         stale_path = os.path.join(DATA_DIR, stale_dir)
         print(f"Removing stale directory: {stale_dir}")
         shutil.rmtree(stale_path)
@@ -124,6 +144,11 @@ def main():
         f.write(root_readme)
 
     print(f"\nDone! Updated {len(community_data)} communities.")
+    if failed_sites:
+        print(
+            f"Note: skipped {len(failed_sites)} community(ies) this run "
+            f"(kept existing data): {', '.join(sorted(failed_sites))}"
+        )
 
 
 if __name__ == "__main__":

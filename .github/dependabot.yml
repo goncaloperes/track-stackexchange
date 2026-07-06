@@ -1,0 +1,23 @@
+version: 2
+updates:
+  # Keep the GitHub Actions (checkout, setup-uv) on their latest majors so we
+  # don't silently fall behind and stay on the current node runtime.
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    groups:
+      actions:
+        patterns:
+          - "*"
+
+  # Keep the dev tooling (pytest, ruff) fresh via the uv lockfile. There are no
+  # runtime dependencies, so this only touches the dev group.
+  - package-ecosystem: uv
+    directory: /
+    schedule:
+      interval: weekly
+    groups:
+      dev:
+        patterns:
+          - "*"

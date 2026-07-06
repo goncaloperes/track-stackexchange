@@ -1,9 +1,9 @@
 """Markdown generation for community and root files."""
 
 import html
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 
-from lib.utils import format_number, format_date, format_tags, escape_markdown
+from lib.utils import escape_markdown, format_date, format_number, format_tags
 
 
 def generate_answers_md(community_name, site_url, answers, question_details):
@@ -35,8 +35,8 @@ def generate_questions_md(community_name, site_url, questions):
     lines = [
         f"# {community_name} \u2014 Questions",
         "",
-        f"| # | Score | Views | Answers | Accepted | Title | Tags | Date |",
-        f"|---|-------|-------|---------|----------|-------|------|------|",
+        "| # | Score | Views | Answers | Accepted | Title | Tags | Date |",
+        "|---|-------|-------|---------|----------|-------|------|------|",
     ]
     for i, q in enumerate(questions, 1):
         score = format_number(q["score"])
@@ -85,7 +85,7 @@ def generate_community_readme(account, site_name, answer_count, question_count):
 
 def generate_root_readme(community_data):
     """Generate the root README.md content."""
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    now = datetime.now(UTC).strftime("%Y-%m-%d")
 
     lines = [
         "# Stack Exchange Activity Tracker",

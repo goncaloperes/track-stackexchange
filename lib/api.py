@@ -63,14 +63,15 @@ def api_get(endpoint, params=None):
             throttled = e.code == 400 and error_id == 502
             if throttled and attempt < MAX_RETRIES - 1:
                 wait = err.get("backoff") or 2 ** (attempt + 1)
-                print(f"  Throttled (quota exhausted): {error_msg}; "
-                      f"waiting {wait}s...")
+                print(f"  Throttled (quota exhausted): {error_msg}; waiting {wait}s...")
                 time.sleep(wait)
                 continue
             hint = ""
             if throttled and not API_KEY:
-                hint = (" — set the STACKEXCHANGE_KEY env var with a Stack Apps "
-                        "key to raise the quota to 10,000/day")
+                hint = (
+                    " — set the STACKEXCHANGE_KEY env var with a Stack Apps "
+                    "key to raise the quota to 10,000/day"
+                )
             raise RuntimeError(
                 f"Stack Exchange API error {e.code} "
                 f"(error_id={error_id}): {error_msg}{hint}"

@@ -2,7 +2,7 @@
 
 import html
 import os
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 
 SCRIPT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(SCRIPT_DIR, "data")
@@ -19,7 +19,7 @@ def format_number(n):
 
 def format_date(timestamp):
     """Convert a Unix timestamp to YYYY-MM-DD."""
-    return datetime.fromtimestamp(timestamp, tz=timezone.utc).strftime("%Y-%m-%d")
+    return datetime.fromtimestamp(timestamp, tz=UTC).strftime("%Y-%m-%d")
 
 
 def format_tags(tags):

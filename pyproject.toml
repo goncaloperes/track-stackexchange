@@ -1,0 +1,37 @@
+[project]
+name = "track-stackexchange"
+version = "0.1.0"
+description = "Track Stack Exchange Q&A activity across all communities."
+readme = "README.md"
+requires-python = ">=3.12"
+# Intentionally zero runtime dependencies — the tracker uses only the Python
+# standard library. Keep it that way; it's the project's best defence against
+# long-term dependency rot.
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "pytest>=8",
+    "ruff>=0.6",
+]
+
+[tool.uv]
+# This is an application, not an installable package, so uv should not try to
+# build it when creating the environment.
+package = false
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+# `ruff format` owns line length; E501 only adds noise on the long markdown-table
+# f-strings that can't be wrapped without hurting readability.
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+# Put the repo root on sys.path so tests can `import lib` / `import track`
+# without an editable install.
+pythonpath = ["."]
