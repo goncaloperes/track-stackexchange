@@ -98,8 +98,8 @@ def generate_root_readme(community_data):
         "",
         "Add a free [Stack Apps key](https://stackapps.com/apps/oauth/register)"
         " as the `STACKEXCHANGE_KEY` repo secret. Without it the unauthenticated"
-        " quota (300 requests/day per IP) throttles CI; the key raises it to"
-        " 10,000/day.",
+        " [quota](https://api.stackexchange.com/docs/throttle) (300 requests/day"
+        " per IP) throttles CI; the key raises it to 10,000/day.",
         "",
         "## Summary",
         "",
