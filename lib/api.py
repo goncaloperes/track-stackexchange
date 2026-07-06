@@ -2,6 +2,7 @@
 
 import gzip
 import json
+import os
 import time
 import urllib.error
 import urllib.parse
@@ -11,11 +12,30 @@ from lib.utils import MAX_RETRIES, REQUEST_DELAY
 
 BASE_URL = "https://api.stackexchange.com/2.3"
 
+# A registered Stack Apps key raises the request quota from 300/day (shared per
+# IP, which is easily exhausted on shared CI runners) to 10,000/day.
+# Register at https://stackapps.com/apps/oauth/register and expose the key via
+# the STACKEXCHANGE_KEY environment variable.
+API_KEY = os.environ.get("STACKEXCHANGE_KEY", "").strip()
+
+
+def _read_body(resp_or_err):
+    """Read and gunzip a response/error body, returning parsed JSON or None."""
+    try:
+        raw = resp_or_err.read()
+        if resp_or_err.headers.get("Content-Encoding") == "gzip":
+            raw = gzip.decompress(raw)
+        return json.loads(raw)
+    except Exception:
+        return None
+
 
 def api_get(endpoint, params=None):
     """Make a GET request to the Stack Exchange API with backoff and retry."""
     if params is None:
         params = {}
+    if API_KEY:
+        params = {**params, "key": API_KEY}
     query = urllib.parse.urlencode(params)
     url = f"{BASE_URL}{endpoint}"
     if query:
@@ -25,15 +45,36 @@ def api_get(endpoint, params=None):
             req = urllib.request.Request(url)
             req.add_header("Accept-Encoding", "gzip")
             with urllib.request.urlopen(req, timeout=30) as resp:
-                raw = resp.read()
-                if resp.headers.get("Content-Encoding") == "gzip":
-                    raw = gzip.decompress(raw)
-                data = json.loads(raw)
+                data = _read_body(resp)
+            if data is None:
+                raise ValueError("Could not parse API response")
             if "backoff" in data:
                 print(f"  Backoff requested: {data['backoff']}s")
                 time.sleep(data["backoff"])
             time.sleep(REQUEST_DELAY)
             return data
+        except urllib.error.HTTPError as e:
+            # The SE API returns a JSON error body even on 4xx. A 400 with
+            # error_id 502 is a throttle_violation (quota exhausted); anything
+            # else is a genuinely bad request that won't self-heal on retry.
+            err = _read_body(e) or {}
+            error_id = err.get("error_id")
+            error_msg = err.get("error_message", str(e))
+            throttled = e.code == 400 and error_id == 502
+            if throttled and attempt < MAX_RETRIES - 1:
+                wait = err.get("backoff") or 2 ** (attempt + 1)
+                print(f"  Throttled (quota exhausted): {error_msg}; "
+                      f"waiting {wait}s...")
+                time.sleep(wait)
+                continue
+            hint = ""
+            if throttled and not API_KEY:
+                hint = (" — set the STACKEXCHANGE_KEY env var with a Stack Apps "
+                        "key to raise the quota to 10,000/day")
+            raise RuntimeError(
+                f"Stack Exchange API error {e.code} "
+                f"(error_id={error_id}): {error_msg}{hint}"
+            ) from e
         except (urllib.error.URLError, ConnectionError, OSError) as e:
             if attempt < MAX_RETRIES - 1:
                 wait = 2 ** (attempt + 1)

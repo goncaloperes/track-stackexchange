@@ -102,6 +102,16 @@ def generate_root_readme(community_data):
         "",
         "Only communities with at least one question or answer are tracked.",
         "",
+        "## Setup",
+        "",
+        "The Stack Exchange API allows only 300 requests/day for unauthenticated"
+        " clients, shared per IP — which is quickly exhausted on CI runners and"
+        " causes `HTTP 400` throttle errors. Register a free"
+        " [Stack Apps key](https://stackapps.com/apps/oauth/register) (raises the"
+        " quota to 10,000/day) and add it as a repository secret named"
+        " `STACKEXCHANGE_KEY`. Only the **Key** is needed — not the OAuth client"
+        " id/secret.",
+        "",
         "## Summary",
         "",
         f"> Last updated: {now}",
