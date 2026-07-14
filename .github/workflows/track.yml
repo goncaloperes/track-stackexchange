@@ -2,6 +2,10 @@ name: Track Stack Exchange
 
 on:
   push:
+    # main only — an unfiltered push trigger runs the tracker on every branch,
+    # committing data onto Dependabot PRs and burning unauthenticated API quota
+    # (Dependabot-triggered runs don't see the STACKEXCHANGE_KEY secret).
+    branches: [main]
   workflow_dispatch:
   schedule:
     # Run weekly on Mondays
