@@ -22,7 +22,7 @@
 | 18 | 1 | 958 | 1 | ✓ | [D3.js: Import file changing with a slider](https://stackoverflow.com/q/54315685) | `javascript`, `d3.js`, `import`, `data-visualization` | 2019-01-22 |
 | 19 | 1 | 2,254 | 1 | ✓ | [D3js HTML Tooltip on a Choropleth Map](https://stackoverflow.com/q/54326128) | `javascript`, `d3.js` | 2019-01-23 |
 | 20 | 1 | 595 | 2 | ✓ | [Import ARFF dataset using RWeka in RStudio (depencendy error: rJava)](https://stackoverflow.com/q/55692355) | `r`, `rstudio`, `data-mining`, `apriori`, `arff` | 2019-04-15 |
-| 21 | 1 | 2,327 | 1 | ✓ | [Handle equivalent holidays for different countries in Prophet](https://stackoverflow.com/q/62730316) | `python`, `pandas`, `dataframe`, `datetime`, `facebook-prophet` | 2020-07-04 |
+| 21 | 1 | 2,328 | 1 | ✓ | [Handle equivalent holidays for different countries in Prophet](https://stackoverflow.com/q/62730316) | `python`, `pandas`, `dataframe`, `datetime`, `facebook-prophet` | 2020-07-04 |
 | 22 | 1 | 170 | 1 | ✓ | [DataFrame groupby hour and do the mean for a specific column](https://stackoverflow.com/q/64655923) | `python`, `pandas`, `dataframe`, `pandas-groupby`, `mean` | 2020-11-03 |
 | 23 | 1 | 58 | 2 | ✓ | [Go through all the files within a range in groups of 24](https://stackoverflow.com/q/65555890) | `python`, `loops`, `for-loop`, `range` | 2021-01-03 |
 | 24 | 1 | 66 | 2 | ✓ | [Generate more than one date cells in each date_range](https://stackoverflow.com/q/65601635) | `python`, `pandas`, `dataframe`, `date`, `date-range` | 2021-01-06 |
