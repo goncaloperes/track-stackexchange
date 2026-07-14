@@ -2,6 +2,9 @@ name: CI
 
 on:
   push:
+    # PR branches are covered by the pull_request trigger; without this filter
+    # every PR runs CI twice.
+    branches: [main]
   pull_request:
 
 permissions:
