@@ -24,13 +24,13 @@
 | 20 | 1 | 595 | 2 | ✓ | [Import ARFF dataset using RWeka in RStudio (depencendy error: rJava)](https://stackoverflow.com/q/55692355) | `r`, `rstudio`, `data-mining`, `apriori`, `arff` | 2019-04-15 |
 | 21 | 1 | 2,327 | 1 | ✓ | [Handle equivalent holidays for different countries in Prophet](https://stackoverflow.com/q/62730316) | `python`, `pandas`, `dataframe`, `datetime`, `facebook-prophet` | 2020-07-04 |
 | 22 | 1 | 170 | 1 | ✓ | [DataFrame groupby hour and do the mean for a specific column](https://stackoverflow.com/q/64655923) | `python`, `pandas`, `dataframe`, `pandas-groupby`, `mean` | 2020-11-03 |
-| 23 | 1 | 57 | 2 | ✓ | [Go through all the files within a range in groups of 24](https://stackoverflow.com/q/65555890) | `python`, `loops`, `for-loop`, `range` | 2021-01-03 |
+| 23 | 1 | 58 | 2 | ✓ | [Go through all the files within a range in groups of 24](https://stackoverflow.com/q/65555890) | `python`, `loops`, `for-loop`, `range` | 2021-01-03 |
 | 24 | 1 | 66 | 2 | ✓ | [Generate more than one date cells in each date_range](https://stackoverflow.com/q/65601635) | `python`, `pandas`, `dataframe`, `date`, `date-range` | 2021-01-06 |
 | 25 | 1 | 520 | 1 | ✓ | [Append different strings to a list of strings depending on its position in the list](https://stackoverflow.com/q/65828594) | `python`, `string`, `list`, `loops`, `append` | 2021-01-21 |
 | 26 | 1 | 139 | 3 | ✓ | [Sum lists of lists](https://stackoverflow.com/q/65891008) | `python`, `list`, `loops`, `if-statement`, `matrix` | 2021-01-25 |
 | 27 | 1 | 162 | 1 | ✓ | [Split dataframe string (when string can hold n values of that cell variable), into multiple columns](https://stackoverflow.com/q/71337157) | `python`, `pandas`, `string`, `dataframe`, `split` | 2022-03-03 |
-| 28 | 0 | 229 | 1 | ✓ | [isin holidays only recognizing the first hour](https://stackoverflow.com/q/65689495) | `python`, `pandas`, `dataframe`, `isin`, `python-holidays` | 2021-01-12 |
+| 28 | 0 | 230 | 1 | ✓ | [isin holidays only recognizing the first hour](https://stackoverflow.com/q/65689495) | `python`, `pandas`, `dataframe`, `isin`, `python-holidays` | 2021-01-12 |
 | 29 | 0 | 59 | 1 | ✓ | [Grab and pass dict/JSON associated with string from list](https://stackoverflow.com/q/65836806) | `python`, `json`, `string`, `dictionary`, `printing` | 2021-01-21 |
 | 30 | 0 | 107 | 1 | ✓ | [RGraphviz Hasse Diagram displaying only one lable](https://stackoverflow.com/q/65998355) | `r`, `ggplot2`, `data-visualization`, `visualization`, `r-graphviz` | 2021-02-01 |
-| 31 | 0 | 790 | 1 | ✓ | [ggplot display Pareto front only for the points that belong to a specific level](https://stackoverflow.com/q/65999513) | `r`, `ggplot2`, `data-visualization`, `pareto-chart`, `pareto-optimality` | 2021-02-01 |
+| 31 | 0 | 791 | 1 | ✓ | [ggplot display Pareto front only for the points that belong to a specific level](https://stackoverflow.com/q/65999513) | `r`, `ggplot2`, `data-visualization`, `pareto-chart`, `pareto-optimality` | 2021-02-01 |
 | 32 | 0 | 161 | 1 | ✓ | [Error in topsis(d, w, i) : 'decision' must be a matrix or data frame](https://stackoverflow.com/q/66045450) | `r`, `dataframe`, `matrix`, `type-conversion` | 2021-02-04 |
