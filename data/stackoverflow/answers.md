@@ -39,18 +39,18 @@
 | 35 | 6 |  | [Cannot remove Docker Container from Docker Desktop](https://stackoverflow.com/a/75715294) | `docker`, `docker-compose`, `docker-machine`, `docker-desktop` | 2023-03-12 |
 | 36 | 6 |  | [How to re-authorize the OAuth Application 'Git Credential Manager'](https://stackoverflow.com/a/78616596) | `git`, `github` | 2024-06-13 |
 | 37 | 5 |  | [How to install fbprophet for Python 3.7 (anaconda distribution)](https://stackoverflow.com/a/62718727) | `python`, `python-3.x`, `installation`, `facebook-prophet` | 2020-07-03 |
-| 38 | 5 |  | [Drop rows containing empty cells from a pandas DataFrame](https://stackoverflow.com/a/65626640) | `python`, `pandas`, `dataframe`, `drop` | 2021-01-08 |
-| 39 | 5 |  | [Set value for particular cell in pandas DataFrame using index](https://stackoverflow.com/a/66100454) | `python`, `pandas`, `dataframe`, `cell`, `nan` | 2021-02-08 |
-| 40 | 5 | ✓ | [Adding file name in a column in pandas](https://stackoverflow.com/a/67455922) | `python`, `pandas`, `dataframe`, `csv` | 2021-05-09 |
-| 41 | 5 |  | [Cannot install Google Colab locally](https://stackoverflow.com/a/67646624) | `python`, `python-3.x`, `pandas`, `windows`, `google-colaboratory` | 2021-05-22 |
-| 42 | 5 |  | [Using a dataframe's name as string](https://stackoverflow.com/a/67647493) | `python`, `pandas`, `string`, `dataframe` | 2021-05-22 |
-| 43 | 5 |  | [Pandas wide to long bringing empty DataFrame](https://stackoverflow.com/a/72029171) | `python`, `pandas`, `dataframe` | 2022-04-27 |
-| 44 | 5 |  | [Is it a good practice to have the database within the same container as the app?](https://stackoverflow.com/a/73308744) | `database`, `docker`, `kubernetes`, `web-applications`, `containers` | 2022-08-10 |
-| 45 | 5 | ✓ | [Convert nested dict to dataframe](https://stackoverflow.com/a/74155986) | `python`, `pandas`, `dataframe` | 2022-10-21 |
-| 46 | 4 | ✓ | [Dynamic Badges GitHub](https://stackoverflow.com/a/49150702) | `git`, `github`, `badge`, `shields.io` | 2018-03-07 |
-| 47 | 4 |  | [AdMob interstellar ad dropped for 99%, but sessions numbers(usage) are the same?](https://stackoverflow.com/a/50640385) | `admob`, `flurry`, `flurry-analytics` | 2018-06-01 |
-| 48 | 4 |  | [Python SVG converter creates empty file](https://stackoverflow.com/a/56505674) | `python`, `python-3.x`, `type-conversion`, `cairo`, `rsvg` | 2019-06-08 |
-| 49 | 4 |  | [How do I get the day of week given a date?](https://stackoverflow.com/a/62752444) | `python`, `date`, `datetime`, `time`, `weekday` | 2020-07-06 |
+| 38 | 5 |  | [How do I get the day of week given a date?](https://stackoverflow.com/a/62752444) | `python`, `date`, `datetime`, `time`, `weekday` | 2020-07-06 |
+| 39 | 5 |  | [Drop rows containing empty cells from a pandas DataFrame](https://stackoverflow.com/a/65626640) | `python`, `pandas`, `dataframe`, `drop` | 2021-01-08 |
+| 40 | 5 |  | [Set value for particular cell in pandas DataFrame using index](https://stackoverflow.com/a/66100454) | `python`, `pandas`, `dataframe`, `cell`, `nan` | 2021-02-08 |
+| 41 | 5 | ✓ | [Adding file name in a column in pandas](https://stackoverflow.com/a/67455922) | `python`, `pandas`, `dataframe`, `csv` | 2021-05-09 |
+| 42 | 5 |  | [Cannot install Google Colab locally](https://stackoverflow.com/a/67646624) | `python`, `python-3.x`, `pandas`, `windows`, `google-colaboratory` | 2021-05-22 |
+| 43 | 5 |  | [Using a dataframe's name as string](https://stackoverflow.com/a/67647493) | `python`, `pandas`, `string`, `dataframe` | 2021-05-22 |
+| 44 | 5 |  | [Pandas wide to long bringing empty DataFrame](https://stackoverflow.com/a/72029171) | `python`, `pandas`, `dataframe` | 2022-04-27 |
+| 45 | 5 |  | [Is it a good practice to have the database within the same container as the app?](https://stackoverflow.com/a/73308744) | `database`, `docker`, `kubernetes`, `web-applications`, `containers` | 2022-08-10 |
+| 46 | 5 | ✓ | [Convert nested dict to dataframe](https://stackoverflow.com/a/74155986) | `python`, `pandas`, `dataframe` | 2022-10-21 |
+| 47 | 4 | ✓ | [Dynamic Badges GitHub](https://stackoverflow.com/a/49150702) | `git`, `github`, `badge`, `shields.io` | 2018-03-07 |
+| 48 | 4 |  | [AdMob interstellar ad dropped for 99%, but sessions numbers(usage) are the same?](https://stackoverflow.com/a/50640385) | `admob`, `flurry`, `flurry-analytics` | 2018-06-01 |
+| 49 | 4 |  | [Python SVG converter creates empty file](https://stackoverflow.com/a/56505674) | `python`, `python-3.x`, `type-conversion`, `cairo`, `rsvg` | 2019-06-08 |
 | 50 | 4 | ✓ | [Launching Spyder from Anaconda prompt](https://stackoverflow.com/a/62938691) | `python`, `command-line`, `anaconda`, `conda`, `spyder` | 2020-07-16 |
 | 51 | 4 |  | [Python df.to_excel() storing numbers as text in excel. How to store as Value?](https://stackoverflow.com/a/63339853) | `python`, `html`, `excel`, `pandas`, `dataframe` | 2020-08-10 |
 | 52 | 4 |  | [GPU processing - cuDF install problem (O/S or hardware issue?)](https://stackoverflow.com/a/64985593) | `python`, `python-3.x`, `windows`, `rapids`, `cudf` | 2020-11-24 |
