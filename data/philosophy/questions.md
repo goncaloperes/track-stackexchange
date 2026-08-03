@@ -2,7 +2,7 @@
 
 | # | Score | Views | Answers | Accepted | Title | Tags | Date |
 |---|-------|-------|---------|----------|-------|------|------|
-| 1 | 11 | 855 | 1 | ✓ | [What is the decisive point for classifying a certain speech as unacceptable?](https://philosophy.stackexchange.com/q/77697) | `ethics`, `freedom` | 2020-11-28 |
+| 1 | 11 | 857 | 1 | ✓ | [What is the decisive point for classifying a certain speech as unacceptable?](https://philosophy.stackexchange.com/q/77697) | `ethics`, `freedom` | 2020-11-28 |
 | 2 | 10 | 776 | 8 | ✓ | [What is freedom of speech?](https://philosophy.stackexchange.com/q/77702) | `freedom` | 2020-11-29 |
 | 3 | 9 | 4,687 | 3 | ✓ | [Should we pay for the errors of our ancestors?](https://philosophy.stackexchange.com/q/79704) | `ethics`, `history` | 2021-03-17 |
 | 4 | 5 | 775 | 1 |  | [How does one distinguish fact and belief?](https://philosophy.stackexchange.com/q/78366) | `epistemology`, `metaphysics`, `truth`, `belief`, `social-epistemology` | 2021-01-02 |
