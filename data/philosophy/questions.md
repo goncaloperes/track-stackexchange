@@ -7,4 +7,4 @@
 | 3 | 9 | 4,688 | 3 | ✓ | [Should we pay for the errors of our ancestors?](https://philosophy.stackexchange.com/q/79704) | `ethics`, `history` | 2021-03-17 |
 | 4 | 5 | 775 | 1 |  | [How does one distinguish fact and belief?](https://philosophy.stackexchange.com/q/78366) | `epistemology`, `metaphysics`, `truth`, `belief`, `social-epistemology` | 2021-01-02 |
 | 5 | 1 | 233 | 3 |  | [Are there ethicists who defend the conclusion that "harm" be defined by the individual being harmed?](https://philosophy.stackexchange.com/q/77701) | `ethics`, `history-of-philosophy`, `definitions`, `pain-and-pleasure`, `philosophy-of-political-science` | 2020-11-28 |
-| 6 | 0 | 330 | 5 | ✓ | [Is Economy people's lives?](https://philosophy.stackexchange.com/q/72980) | `life`, `economics` | 2020-05-13 |
+| 6 | 0 | 332 | 5 | ✓ | [Is Economy people's lives?](https://philosophy.stackexchange.com/q/72980) | `life`, `economics` | 2020-05-13 |
