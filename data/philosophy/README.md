@@ -1,6 +1,6 @@
 # Philosophy Stack Exchange
 
-[Profile](https://philosophy.stackexchange.com/users/35436) | Reputation: 501 | Member since: 2018-10-17
+[Profile](https://philosophy.stackexchange.com/users/35436) | Reputation: 509 | Member since: 2018-10-17
 
 | | Count |
 |---|---|

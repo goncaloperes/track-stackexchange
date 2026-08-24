@@ -8,7 +8,7 @@ Add a free [Stack Apps key](https://stackapps.com/apps/oauth/register) as the `S
 
 ## Summary
 
-> Updated 2026-08-18
+> Updated 2026-08-24
 
 | Community | Reputation | Answers | Questions | Gold | Silver | Bronze |
 |-----------|-----------|---------|-----------|------|--------|--------|
@@ -16,7 +16,7 @@ Add a free [Stack Apps key](https://stackapps.com/apps/oauth/register) as the `S
 | [Biblical Hermeneutics Stack Exchange](https://hermeneutics.stackexchange.com/users/23182) | 1,397 | 18 | 20 | 1 | 19 | 37 |
 | [Super User](https://superuser.com/users/717009) | 931 | 14 | 11 | 5 | 17 | 25 |
 | [Meta Stack Exchange](https://meta.stackexchange.com/users/362304) | 576 | 3 | 4 | 1 | 3 | 12 |
-| [Philosophy Stack Exchange](https://philosophy.stackexchange.com/users/35436) | 501 | 0 | 6 | 0 | 3 | 12 |
+| [Philosophy Stack Exchange](https://philosophy.stackexchange.com/users/35436) | 509 | 0 | 6 | 0 | 3 | 12 |
 | [Portuguese Language Stack Exchange](https://portuguese.stackexchange.com/users/1952) | 463 | 5 | 6 | 1 | 7 | 15 |
 | [Science Fiction & Fantasy Stack Exchange](https://scifi.stackexchange.com/users/106137) | 447 | 0 | 4 | 0 | 4 | 17 |
 | [Seasoned Advice](https://cooking.stackexchange.com/users/56955) | 413 | 2 | 3 | 1 | 3 | 12 |
@@ -61,4 +61,4 @@ Add a free [Stack Apps key](https://stackapps.com/apps/oauth/register) as the `S
 | [Engineering Stack Exchange](https://engineering.stackexchange.com/users/17898) | 111 | 0 | 1 | 0 | 0 | 3 |
 | [English Language & Usage Stack Exchange](https://english.stackexchange.com/users/230539) | 103 | 0 | 1 | 1 | 1 | 6 |
 | [SharePoint Stack Exchange](https://sharepoint.stackexchange.com/users/75513) | 103 | 0 | 1 | 1 | 2 | 5 |
-| **Total** | **25,913** | **491** | **149** | **47** | **201** | **573** |
+| **Total** | **25,921** | **491** | **149** | **47** | **201** | **573** |
