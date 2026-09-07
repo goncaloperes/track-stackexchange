@@ -11,7 +11,7 @@
 | 7 | 22 |  | [Update Git branches from master](https://stackoverflow.com/a/73501164) | `git`, `git-branch` | 2022-08-26 |
 | 8 | 22 | ✓ | [How to install node.js and npm on Ubuntu terminal using WSL2 in windows 10](https://stackoverflow.com/a/75739322) | `node.js`, `npm`, `terminal`, `windows-10`, `windows-subsystem-for-linux` | 2023-03-14 |
 | 9 | 17 |  | [Upgrade Python in a virtual environment](https://stackoverflow.com/a/64863105) | `python`, `pip`, `virtualenv`, `version`, `requirements` | 2020-11-16 |
-| 10 | 15 |  | [VScode remote connection error: The process tried to write to a nonexistent pipe](https://stackoverflow.com/a/68379439) | `ssh`, `visual-studio-code`, `ssh-keys`, `vscode-remote` | 2021-07-14 |
+| 10 | 15 |  | [VScode remote connection error: The process tried to write to a nonexistent pipe](https://stackoverflow.com/a/68379439) | `ssh`, `vs-code`, `ssh-keys`, `vscode-remote` | 2021-07-14 |
 | 11 | 15 |  | [substring of an entire column in pandas dataframe](https://stackoverflow.com/a/73948355) | `python`, `pandas`, `dataframe` | 2022-10-04 |
 | 12 | 14 | ✓ | [How to resolve inconsistent package warnings in conda?](https://stackoverflow.com/a/56072923) | `python`, `anaconda`, `package`, `virtualenv`, `conda` | 2019-05-10 |
 | 13 | 13 |  | [pandas - find first occurrence](https://stackoverflow.com/a/67343461) | `python`, `pandas`, `dataframe`, `group-by`, `find` | 2021-05-01 |
@@ -138,7 +138,7 @@
 | 134 | 2 | ✓ | [Xlsxwriter with pandas, use dot as thousand separator](https://stackoverflow.com/a/74135684) | `excel`, `pandas`, `formatting`, `xlsxwriter` | 2022-10-20 |
 | 135 | 2 |  | [How to combine categorical data into different group in pandas](https://stackoverflow.com/a/74205411) | `python`, `pandas` | 2022-10-26 |
 | 136 | 2 | ✓ | [pandas, how to merge tow dataframe with multiple columns IDs](https://stackoverflow.com/a/74319913) | `pandas`, `dataframe`, `merge` | 2022-11-04 |
-| 137 | 2 |  | [How to change size of VS Code jupyter notebook graphs?](https://stackoverflow.com/a/74392447) | `python`, `visual-studio-code`, `jupyter-notebook`, `plotly`, `jupyter` | 2022-11-10 |
+| 137 | 2 |  | [How to change size of VS Code jupyter notebook graphs?](https://stackoverflow.com/a/74392447) | `python`, `vs-code`, `jupyter-notebook`, `plotly`, `jupyter` | 2022-11-10 |
 | 138 | 2 |  | [Is there a regex pattern that can change different values based on different matches in python](https://stackoverflow.com/a/74573445) | `python`, `pandas`, `dataframe`, `replace` | 2022-11-25 |
 | 139 | 1 | ✓ | [Unity3D playing sound when Player collides with an object with a specific tag](https://stackoverflow.com/a/59289582) | `c#`, `unity-game-engine`, `audio`, `collision` | 2019-12-11 |
 | 140 | 1 |  | [Invalid or expired token on Twurl](https://stackoverflow.com/a/60459134) | `twitter`, `twurl` | 2020-02-28 |
@@ -183,7 +183,7 @@
 | 179 | 1 |  | [Drop rows by index from dataframe](https://stackoverflow.com/a/71350313) | `python`, `pandas`, `dataframe` | 2022-03-04 |
 | 180 | 1 |  | [How to Ignore errors in Dataframe to_sql method](https://stackoverflow.com/a/72028992) | `python`, `python-3.x`, `pandas`, `dataframe`, `pandas-to-sql` | 2022-04-27 |
 | 181 | 1 | ✓ | [pandas dataframe groupby get count by multi column condition](https://stackoverflow.com/a/72039918) | `python`, `pandas`, `dataframe` | 2022-04-28 |
-| 182 | 1 |  | [How to save c++ code file using visual code?](https://stackoverflow.com/a/72044161) | `c++`, `visual-studio-code` | 2022-04-28 |
+| 182 | 1 |  | [How to save c++ code file using visual code?](https://stackoverflow.com/a/72044161) | `c++`, `vs-code` | 2022-04-28 |
 | 183 | 1 |  | [How to calculate bed mates and length of time spent together](https://stackoverflow.com/a/72057087) | `python`, `pandas` | 2022-04-29 |
 | 184 | 1 | ✓ | [i need to return a value from a dataframe cell as a variable not a series](https://stackoverflow.com/a/72076528) | `pandas`, `dataframe`, `python-3.8`, `pandas-loc` | 2022-05-01 |
 | 185 | 1 |  | [Django - upload a file to the cloud (Azure blob storage) with progress bar](https://stackoverflow.com/a/72792165) | `python`, `django`, `ajax`, `azure`, `progress-bar` | 2022-06-28 |

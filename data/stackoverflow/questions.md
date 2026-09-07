@@ -2,22 +2,22 @@
 
 | # | Score | Views | Answers | Accepted | Title | Tags | Date |
 |---|-------|-------|---------|----------|-------|------|------|
-| 1 | 19 | 59,061 | 3 | ✓ | [ASP.NET Core 2.2: Unable to resolve service for type 'AutoMapper.IMapper'](https://stackoverflow.com/q/54239669) | `c#`, `asp.net-core`, `.net-core`, `asp.net-core-mvc` | 2019-01-17 |
+| 1 | 19 | 59,065 | 3 | ✓ | [ASP.NET Core 2.2: Unable to resolve service for type 'AutoMapper.IMapper'](https://stackoverflow.com/q/54239669) | `c#`, `asp.net-core`, `.net-core`, `asp.net-core-mvc` | 2019-01-17 |
 | 2 | 5 | 1,432 | 2 | ✓ | [Split dataset per rows into smaller files in R](https://stackoverflow.com/q/57047338) | `r`, `import`, `split`, `dataset`, `bigdata` | 2019-07-15 |
 | 3 | 5 | 2,377 | 2 | ✓ | [Unity3D playing sound when Player collides with an object with a specific tag](https://stackoverflow.com/q/59285897) | `c#`, `unity-game-engine`, `audio`, `collision` | 2019-12-11 |
 | 4 | 4 | 2,019 | 1 | ✓ | [CodeIgniter display a redirect message](https://stackoverflow.com/q/48773284) | `php`, `codeigniter`, `http-redirect` | 2018-02-13 |
-| 5 | 3 | 1,728 | 2 | ✓ | [Dynamic Badges GitHub](https://stackoverflow.com/q/49130448) | `git`, `github`, `badge`, `shields.io` | 2018-03-06 |
+| 5 | 3 | 1,730 | 2 | ✓ | [Dynamic Badges GitHub](https://stackoverflow.com/q/49130448) | `git`, `github`, `badge`, `shields.io` | 2018-03-06 |
 | 6 | 3 | 1,058 | 2 | ✓ | [Angular app 6 in ASP.NET Core: More than one module matches](https://stackoverflow.com/q/54251659) | `angular`, `asp.net-core`, `angular6`, `angular-components` | 2019-01-18 |
-| 7 | 3 | 3,870 | 1 | ✓ | [ECCODES ERROR when opening .GRIB file in Spyder](https://stackoverflow.com/q/62939533) | `python`, `anaconda`, `spyder`, `grib`, `eccodes` | 2020-07-16 |
+| 7 | 3 | 3,872 | 1 | ✓ | [ECCODES ERROR when opening .GRIB file in Spyder](https://stackoverflow.com/q/62939533) | `python`, `anaconda`, `spyder`, `grib`, `eccodes` | 2020-07-16 |
 | 8 | 2 | 232 | 2 |  | [HTML5: Inclusion/Omission of closing in <input> or <p>](https://stackoverflow.com/q/52905841) | `html`, `tags`, `html-input` | 2018-10-20 |
 | 9 | 2 | 167 | 1 | ✓ | [StaticInjectorError - Populating drop-down lists](https://stackoverflow.com/q/54258859) | `angular`, `asp.net-core`, `drop-down-menu`, `angular6` | 2019-01-18 |
 | 10 | 2 | 169 | 1 | ✓ | [D3.Js require a file with a dynamic string path](https://stackoverflow.com/q/54310786) | `javascript`, `string`, `d3.js` | 2019-01-22 |
-| 11 | 2 | 475 | 2 | ✓ | [Error 1005 when Forward Engineering EER diagram](https://stackoverflow.com/q/56821483) | `mysql`, `foreign-keys`, `mysql-workbench`, `diagram`, `entity-relationship` | 2019-06-29 |
+| 11 | 2 | 478 | 2 | ✓ | [Error 1005 when Forward Engineering EER diagram](https://stackoverflow.com/q/56821483) | `mysql`, `foreign-keys`, `mysql-workbench`, `diagram`, `entity-relationship` | 2019-06-29 |
 | 12 | 2 | 139 | 1 | ✓ | [Split dataset file in parts of a specific size](https://stackoverflow.com/q/56957702) | `r`, `import`, `split`, `dataset`, `size` | 2019-07-09 |
-| 13 | 2 | 1,714 | 2 | ✓ | [Player disappears when it collides with a tagged object](https://stackoverflow.com/q/59184990) | `c#`, `unity-game-engine`, `scripting`, `collision` | 2019-12-04 |
+| 13 | 2 | 1,715 | 2 | ✓ | [Player disappears when it collides with a tagged object](https://stackoverflow.com/q/59184990) | `c#`, `unity-game-engine`, `scripting`, `collision` | 2019-12-04 |
 | 14 | 2 | 176 | 2 | ✓ | [Convert Variable Type from DataFrame to DatetimeIndex](https://stackoverflow.com/q/62730668) | `python`, `pandas`, `dataframe`, `datetime`, `type-conversion` | 2020-07-04 |
 | 15 | 2 | 264 | 2 | ✓ | [NetCDF get_dims too many values to unpack](https://stackoverflow.com/q/64559359) | `python`, `pandas`, `export-to-csv`, `netcdf`, `netcdf4` | 2020-10-27 |
-| 16 | 2 | 756 | 1 | ✓ | [Remove default styles on ConvertKit form in WordPress](https://stackoverflow.com/q/66488990) | `css`, `wordpress`, `forms`, `plugins`, `widget` | 2021-03-05 |
+| 16 | 2 | 758 | 1 | ✓ | [Remove default styles on ConvertKit form in WordPress](https://stackoverflow.com/q/66488990) | `css`, `wordpress`, `forms`, `plugins`, `widget` | 2021-03-05 |
 | 17 | 1 | 293 | 1 | ✓ | [Error TS2717 when populating drop-down lists on an Angular with ASP.Net Core app](https://stackoverflow.com/q/54255392) | `node.js`, `angular`, `typescript`, `asp.net-core`, `rxjs` | 2019-01-18 |
 | 18 | 1 | 960 | 1 | ✓ | [D3.js: Import file changing with a slider](https://stackoverflow.com/q/54315685) | `javascript`, `d3.js`, `import`, `data-visualization` | 2019-01-22 |
 | 19 | 1 | 2,255 | 1 | ✓ | [D3js HTML Tooltip on a Choropleth Map](https://stackoverflow.com/q/54326128) | `javascript`, `d3.js` | 2019-01-23 |
