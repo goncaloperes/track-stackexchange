@@ -8,14 +8,14 @@ Add a free [Stack Apps key](https://stackapps.com/apps/oauth/register) as the `S
 
 ## Summary
 
-> Updated 2026-09-07
+> Updated 2026-09-14
 
 | Community | Reputation | Answers | Questions | Gold | Silver | Bronze |
 |-----------|-----------|---------|-----------|------|--------|--------|
 | [Stack Overflow](https://stackoverflow.com/users/7109869) | 13,958 | 389 | 32 | 5 | 74 | 97 |
 | [Biblical Hermeneutics Stack Exchange](https://hermeneutics.stackexchange.com/users/23182) | 1,397 | 18 | 20 | 1 | 19 | 37 |
 | [Super User](https://superuser.com/users/717009) | 931 | 14 | 11 | 5 | 17 | 25 |
-| [Meta Stack Exchange](https://meta.stackexchange.com/users/362304) | 576 | 3 | 4 | 1 | 3 | 12 |
+| [Meta Stack Exchange](https://meta.stackexchange.com/users/362304) | 572 | 3 | 4 | 1 | 3 | 12 |
 | [Philosophy Stack Exchange](https://philosophy.stackexchange.com/users/35436) | 509 | 0 | 6 | 0 | 3 | 12 |
 | [Portuguese Language Stack Exchange](https://portuguese.stackexchange.com/users/1952) | 463 | 5 | 6 | 1 | 7 | 15 |
 | [Science Fiction & Fantasy Stack Exchange](https://scifi.stackexchange.com/users/106137) | 447 | 0 | 4 | 0 | 4 | 17 |
@@ -29,7 +29,7 @@ Add a free [Stack Apps key](https://stackapps.com/apps/oauth/register) as the `S
 | [Pets Stack Exchange](https://pets.stackexchange.com/users/9258) | 253 | 3 | 1 | 1 | 4 | 11 |
 | [The Great Outdoors Stack Exchange](https://outdoors.stackexchange.com/users/12892) | 251 | 3 | 2 | 1 | 3 | 11 |
 | [Web Applications Stack Exchange](https://webapps.stackexchange.com/users/152171) | 250 | 6 | 2 | 1 | 3 | 10 |
-| [Android Enthusiasts Stack Exchange](https://android.stackexchange.com/users/216556) | 244 | 5 | 4 | 1 | 3 | 11 |
+| [Android Enthusiasts Stack Exchange](https://android.stackexchange.com/users/216556) | 244 | 5 | 4 | 1 | 3 | 12 |
 | [Geographic Information Systems Stack Exchange](https://gis.stackexchange.com/users/130105) | 223 | 3 | 4 | 0 | 3 | 10 |
 | [Academia Stack Exchange](https://academia.stackexchange.com/users/99369) | 198 | 1 | 2 | 0 | 1 | 8 |
 | [Artificial Intelligence Stack Exchange](https://ai.stackexchange.com/users/10135) | 191 | 0 | 2 | 1 | 5 | 11 |
@@ -61,4 +61,4 @@ Add a free [Stack Apps key](https://stackapps.com/apps/oauth/register) as the `S
 | [Engineering Stack Exchange](https://engineering.stackexchange.com/users/17898) | 111 | 0 | 1 | 0 | 0 | 3 |
 | [English Language & Usage Stack Exchange](https://english.stackexchange.com/users/230539) | 103 | 0 | 1 | 1 | 1 | 6 |
 | [SharePoint Stack Exchange](https://sharepoint.stackexchange.com/users/75513) | 103 | 0 | 1 | 1 | 2 | 5 |
-| **Total** | **25,921** | **491** | **149** | **47** | **201** | **573** |
+| **Total** | **25,917** | **491** | **149** | **47** | **201** | **574** |
