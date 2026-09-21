@@ -3,7 +3,7 @@
 | # | Score | Accepted | Title | Tags | Date |
 |---|-------|----------|-------|------|------|
 | 1 | 76 |  | [ModuleNotFoundError: No module named 'sklearn'](https://stackoverflow.com/a/52521214) | `python`, `scikit-learn`, `anaconda`, `package`, `conda` | 2018-09-26 |
-| 2 | 64 |  | [How do I update or sync a forked repository on GitHub?](https://stackoverflow.com/a/65401892) | `git`, `github`, `synchronization`, `repository`, `git-fork` | 2020-12-22 |
+| 2 | 65 |  | [How do I update or sync a forked repository on GitHub?](https://stackoverflow.com/a/65401892) | `git`, `github`, `synchronization`, `repository`, `git-fork` | 2020-12-22 |
 | 3 | 43 |  | [How to sort pandas dataframe by one column](https://stackoverflow.com/a/66064796) | `python`, `pandas`, `dataframe`, `sorting`, `datetime` | 2021-02-05 |
 | 4 | 33 |  | [Using Pandas to pd.read_excel() for multiple (but not all) worksheets of the same workbook without reloading the whole file](https://stackoverflow.com/a/64986290) | `python`, `excel`, `pandas`, `dataframe`, `xlsx` | 2020-11-24 |
 | 5 | 27 |  | [Pandas Merging 101](https://stackoverflow.com/a/63338203) | `python`, `pandas`, `join`, `merge`, `concatenation` | 2020-08-10 |
